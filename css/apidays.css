@@ -6,3 +6,20 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 }
+.text {
+	font-size: 19px;
+	font-family: Tahoma, sans-serif;
+	font-weight: 10px;
+	line-height: 20pt;
+}
+
+.textbig {
+	font-size: 28px;
+	font-family: Tahoma, sans-serif;
+	font-weight: 10px;
+	line-height: 20pt;
+}
+.footer{
+	height:40px;
+	margin-top:20px;
+}
