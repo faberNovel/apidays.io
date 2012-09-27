@@ -7,7 +7,7 @@ body {
 	padding : 15px;
 	padding-top : 30px;
 	box-shadow: 3px 3px 3px #aaa; 
-	background: url(../img/01_GRID_bg_ptt.jpg) no-repeat center center fixed; 
+	background: url(../img/bg.png);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
