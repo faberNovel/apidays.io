@@ -7,10 +7,10 @@
     <link href="css/apidays.css" rel="stylesheet">
   </head>
   <body>
-   <div class="container-fluid">
+   <div class="container">
 	 	<div class="row-fluid">
-	      	<div class="span3"><img src="img/02_logo_white_lines_390x390.png" ></div>
-				<div class="span9 text">
+	      	<div class="span4"><img src="img/02_logo_white_lines_390x390.png" ></div>
+				<div class="span8 text">
 					<strong>The	Web	1.0	was	readable, the Web 2.0 was social, now the web is	
 					programmable; trough applications programming interfaces, aka APIs.</strong><br/><br/>
 					Web	 APIs	 are	 a	 unique	 opportunity	 for	 companies,	 governments	 and	
@@ -25,7 +25,7 @@
 		  	<div class="row-fluid">
 				<div class="span12 text"><br/>
 					<strong>NOVEMBER	30,	2012</strong><br>
-					<strong>DECEMBER	1,	2012</strong><br><br/>
+					<strong>DECEMBER	1,	2012</strong><br><br/><br/>
 					<span class="textbig">The	First	International	event	on	APIs	in	Europe<br/><br/>
 					Palais	Brongniart,	Paris</span><br/>
 				</div>
@@ -37,7 +37,7 @@
 					  <div class="controls">
 					    <div class="input-prepend">
 					      <span class="add-on"><i class="icon-envelope"></i></span>
-					      <input class="span6" id="inputIcon" type="text">
+					      <input class="span6" id="inputIcon" value="Stay tuned with your email" type="text">
 					    </div>
 					  </div>
 					</div>
@@ -48,8 +48,8 @@
 		    </div>
 		    <div class="footer">
 		   	 <div class="row-fluid">
-		    	<div class="span5"></div>
-		    	<div class="span7 text"><strong>Press and partneship <br/>contact@apidays.io</strong></div>
+		    	<div class="span4"></div>
+		    	<div class="span6 textfooter"><strong>Press and partneship <br/>contact@apidays.io</strong></div>
 		    </div>
 			</div>
 	    </div>
@@ -57,7 +57,11 @@
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
 	<script type="text/javascript">
-		$('.dropdown-toggle').dropdown();
+		$(document).ready(function () {
+			$('#inputIcon').focus(function() {
+			 	$('#inputIcon').val('');
+			});
+		})
 	</script>
   </body>
 </html>

@@ -1,16 +1,23 @@
 body {
-	margin-top : 30px;
+}
+
+.container {
+	margin-top : 10px;
+	padding : 15px;
+	padding-top : 30px;
+	box-shadow: 3px 3px 3px #aaa; 
 	background: url(../img/01_GRID_bg_ptt.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
+
 .text {
-	font-size: 19px;
+	font-size: 18px;
 	font-family: Tahoma, sans-serif;
 	font-weight: 10px;
-	line-height: 20pt;
+	line-height: 18pt;
 }
 
 .textbig {
@@ -19,7 +26,24 @@ body {
 	font-weight: 10px;
 	line-height: 20pt;
 }
+
+.textfooter {
+	font-size: 23px;
+	font-family: Tahoma, sans-serif;
+	font-weight: 10px;
+	line-height: 25pt;
+}
+
 .footer{
 	height:40px;
 	margin-top:20px;
 }
+
+input[type=text] { 
+	width: 300px; 
+	heigh : 30px;
+	background-color: #fff; 
+	color : black;
+	padding: 5px;
+	border-radius: 10px;
+} 
