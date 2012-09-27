@@ -7,11 +7,7 @@ body {
 	padding : 15px;
 	padding-top : 30px;
 	box-shadow: 3px 3px 3px #aaa; 
-	background: url(../img/bg.png);
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	background: url(../img/bg.png) repeat center center;
 }
 
 .title {
