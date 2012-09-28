@@ -12,7 +12,7 @@ body {
 
 .title {
 	font-size: 25px;
-	line-height: 20pt;
+	line-height: 22pt;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -27,13 +27,6 @@ body {
 
 .text1 {
 	font-size: 20px;
-	text_blue
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-}
-
-.text2 {
-	font-size: 25px;
-	font-weight: 200;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
