@@ -12,7 +12,6 @@ body {
 
 .title {
 	font-size: 25px;
-	font-weight: 10px;
 	line-height: 20pt;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
@@ -28,20 +27,22 @@ body {
 
 .text1 {
 	font-size: 20px;
-	font-weight: 10px;
-	line-height: 20pt;
+	text_blue
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .text2 {
 	font-size: 25px;
-	font-weight: 10px;
-	line-height: 20pt;
+	font-weight: 200;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
+.bloc_share {
+	padding-left: 3px;
+}
+
 .date_lieu_event {
-	padding-top : 8px;
+	padding-top : 5px;
 	padding-left: 10px;
 	color: white;
 	font-size: 30px;
@@ -50,11 +51,14 @@ body {
 	font-weight: 200; 
 }
 
-.textfooter {
-	font-size: 21px;
-	font-family: Tahoma, sans-serif;
-	font-weight: 10px;
-	line-height: 22pt;
+.text_press {
+	font-size: 25px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	padding-left: 35px;
+}
+
+.text_blue {
+	color : #3ca2c0;
 }
 
 .footer{
