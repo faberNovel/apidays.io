@@ -17,6 +17,15 @@ body {
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
+.bloc_date {
+	background: url(../img/bg_date.png) no-repeat;
+}
+
+.form_email {
+	padding-top: 20px;
+	margin-left: 30px;
+}
+
 .text1 {
 	font-size: 20px;
 	font-weight: 10px;
@@ -32,10 +41,13 @@ body {
 }
 
 .date_lieu_event {
+	padding-top : 8px;
+	padding-left: 10px;
+	color: white;
 	font-size: 30px;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-weight: 10px;
-	line-height: 20pt;
+	line-height: 25pt;
+	font-weight: 200; 
 }
 
 .textfooter {
