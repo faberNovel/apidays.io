@@ -42,7 +42,7 @@
 		  	<div class="row-fluid bloc_date">
 				<div class="span7 date_lieu_event">
 					
-						DECEMBER 3, 2012 > DECEMBER 4, 2012 Paris, @EPITA Porte d'Italie<br>
+						DECEMBER 3, 2012 > DECEMBER 4, 2012 - Paris, @EPITA Porte d'Italie<br>
 						<span class="textbig">The First	International event	on APIs	in Europe</span>
 					
 				</div>
