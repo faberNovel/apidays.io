@@ -41,8 +41,9 @@
 	  	  	<br/><br/>
 		  	<div class="row-fluid bloc_date">
 				<div class="span7 date_lieu_event">
-					DECEMBER 3, 2012 > DECEMBER 4, 2012 @Paris<br>
-					<span class="textbig">The First	International event	on APIs	in Europe
+					
+						DECEMBER 3, 2012 > DECEMBER 4, 2012 Paris, @EPITA Porte d'Italie<br>
+						<span class="textbig">The First	International event	on APIs	in Europe</span>
 					
 				</div>
 				<div class="span5">
@@ -55,6 +56,7 @@
 				</div>
 		    </div>
 			<?php if ($_GET['do'] == 1) {?><br/>
+			<a name="speakers"></a>
 			<div class="row-fluid">
 				<div class="span3 title_section">
 					SPEAKERS
@@ -90,6 +92,7 @@
 				</div>
 		    </div>
 		    <br/>
+		    <a name="sponsors"></a>
 		    <div class="row-fluid">
 				<div class="span3 title_section">
 					SPONSORS
