@@ -55,6 +55,10 @@ body {
 	font-weight: 200; 
 }
 
+.texte_bio {
+	padding-top: 50px;
+}
+
 .text_press {
 	font-size: 25px;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
