@@ -55,13 +55,19 @@
 				     </form>
 				</div>
 		    </div>
-			<?php if ($_GET['do'] == 1) {?><br/>
+		    <div class="bloc_press">
+		   	 <div class="row-fluid">
+		   	 	<div class="span7"></div>
+		    	<div class="span5 text_press">PRESS &amp; PARTNERSHIP : <span class="text_blue">contact@apidays.io</span></div>
+		    </div>
+			</div>
+			<?php if ($_GET['do'] == 1) {?>
 			<a name="speakers"></a>
 			<div class="row-fluid">
-				<div class="span3 title_section">
+				<div class="span2 title_section">
 					ORGANIZER
 				</div>
-				<div class="span9">
+				<div class="span10">
 				</div>
 		    </div>
 		    <br/>
@@ -74,7 +80,7 @@
 Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Or&eacute;al, Suez Environnement, Toys "R" Us, Danone, Essilor, bioM&eacute;rieux, SNCF, France TV.
 				</div>
 		    </div>
-		    <br/>
+		  	 <br/>
 		      <div class="row-fluid">
 				<div class="span4">
 					<img src="http://webshell.io/images/webshell-logo-rc1.png" class="img-rounded">
@@ -83,7 +89,9 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
 				</div>
 		    </div>
-		    <br/><br/>
+		    
+		     <?php } ?>
+		    <?php if (0) {?>
 		    <a name="sponsors"></a>
 		    <div class="row-fluid">
 				<div class="span3 title_section">
@@ -119,14 +127,8 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
 				</div>
 		    </div>
-
-			<?php } ?>
-		   	<div class="footer">
-		   	 <div class="row-fluid">
-		   	 	<div class="span7"></div>
-		    	<div class="span5 text_press">PRESS &amp; PARTNERSHIP : <span class="text_blue">contact@apidays.io</span></div>
-		    </div>
-			</div>
+		    <?php } ?>
+			
 	    </div>
 	</div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>

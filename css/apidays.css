@@ -51,7 +51,7 @@ body {
 	background-color: #3ca2c0;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	line-height: 25pt;
-	font-weight: 200; 
+	font-weight: 400; 
 }
 
 .texte_bio {
@@ -68,10 +68,10 @@ body {
 	color : #3ca2c0;
 }
 
-.footer{
+.bloc_press{
 	height:40px;
 	margin-top:20px;
-	margin-bottom: 20px
+	margin-bottom: 10px
 }
 
 input[type=email] { 
