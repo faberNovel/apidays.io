@@ -59,39 +59,31 @@
 			<a name="speakers"></a>
 			<div class="row-fluid">
 				<div class="span3 title_section">
-					SPEAKERS
+					ORGANIZER
 				</div>
 				<div class="span9">
 				</div>
 		    </div>
 		    <br/>
-		    <div class="row-fluid">
-				<div class="span2">
-					<img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded">
+		   	<div class="row-fluid">
+				<div class="span4">
+					<img src="http://www.fabernovel.com/images/images/faberlogo_SVG.svg" class="img-rounded">
 				</div>
-				<div class="span10 texte_bio">
-					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
-				</div>
-		    </div>
-		    <br/>
-		      <div class="row-fluid">
-				<div class="span2">
-					<img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded">
-				</div>
-				<div class="span10 texte_bio">
-					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
+				<div class="span8">
+					faberNovel helps large organizations to think and act like startups. faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. 
+Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Or&eacute;al, Suez Environnement, Toys "R" Us, Danone, Essilor, bioM&eacute;rieux, SNCF, France TV.
 				</div>
 		    </div>
 		    <br/>
 		      <div class="row-fluid">
-				<div class="span2">
-					<img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded">
+				<div class="span4">
+					<img src="http://webshell.io/images/webshell-logo-rc1.png" class="img-rounded">
 				</div>
-				<div class="span10 texte_bio">
+				<div class="span8">
 					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
 				</div>
 		    </div>
-		    <br/>
+		    <br/><br/>
 		    <a name="sponsors"></a>
 		    <div class="row-fluid">
 				<div class="span3 title_section">
