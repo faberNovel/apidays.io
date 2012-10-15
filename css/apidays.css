@@ -1,5 +1,6 @@
 body {
-	background-color: lightgrey;
+
+	background: url(../img/bg.png) repeat center center;
 }
 
 .container {
@@ -39,6 +40,16 @@ body {
 	padding-left: 10px;
 	color: white;
 	font-size: 30px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	line-height: 25pt;
+	font-weight: 200; 
+}
+
+.title_section {
+	padding-left: 10px;
+	color: white;
+	font-size: 30px;
+	background-color: #3ca2c0;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	line-height: 25pt;
 	font-weight: 200; 

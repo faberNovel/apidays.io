@@ -1,3 +1,7 @@
+<?php 
+	error_reporting(E_ALL ^ E_NOTICE);
+	ini_set('display_errors', '1');
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -50,6 +54,15 @@
 				     </form>
 				</div>
 		    </div>
+			<?php if ($_GET['do'] == 1) {?><br/>
+			<div class="row-fluid">
+				<div class="span3 title_section">
+					SPEAKERS
+				</div>
+				<div class="span9">
+				</div>
+		    </div>
+			<?php } ?>
 		   	<div class="footer">
 		   	 <div class="row-fluid">
 		   	 	<div class="span7"></div>
