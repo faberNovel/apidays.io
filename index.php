@@ -77,7 +77,11 @@
 					<a target='_blank' href='http://fabernovel.com/en/'><img src="http://www.fabernovel.com/images/images/faberlogo_SVG.svg" class="img-rounded"></a>
 				</div>
 				<div class="span8">
-					<a target='_blank' href="http://fabernovel.com/en/">faberNovel</a> helps large organizations to think and act like startups. faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. 
+					<?php 
+						$text = 'startups';
+						if (isset($_GET['spider'])) $text = 'API';
+					?>
+					<a target='_blank' href="http://fabernovel.com/en/">faberNovel</a> helps large organizations to think and act like <?php echo $text;?>. faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. 
 Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Or&eacute;al, Suez Environnement, Toys "R" Us, Danone, Essilor, bioM&eacute;rieux, SNCF, France TV.
 				</div>
 		    </div>
