@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>API days, The First International event on APIs in Europe</title>
+    <title>API days, The First International event on APIs in Europe #apidays</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/apidays.css" rel="stylesheet">
@@ -15,7 +15,7 @@
    <div class="container">
 	   	<div class="row-fluid bloc_share">
 	    	<div class="span1">
-		    	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://apidays.io">Tweet</a>
+		    	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://apidays.io" data-via="apidays2012" data-related="apidays2012">Tweet</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 			</div>
 
