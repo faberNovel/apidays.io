@@ -61,7 +61,7 @@
 		    	<div class="span5 text_press">PRESS &amp; PARTNERSHIP : <span class="text_blue">contact@apidays.io</span></div>
 		    </div>
 			</div>
-			<?php if ($_GET['do'] == 1) {?>
+			<?php if (1) {?>
 <!--			<img src="http://maps.googleapis.com/maps/api/staticmap?center=paris&zoom=13&size=600x300&sensor=false"/>-->
 			<a name="orgnizer"></a>
 			<div class="row-fluid">
