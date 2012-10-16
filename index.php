@@ -66,7 +66,7 @@
 			<a name="orgnizer"></a>
 			<div class="row-fluid">
 				<div class="span2 title_section">
-					ORGANIZER
+					ORGANIZERS
 				</div>
 				<div class="span10">
 				</div>
