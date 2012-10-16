@@ -74,20 +74,23 @@
 		    <br/>
 		   	<div class="row-fluid">
 				<div class="span4">
-					<img src="http://www.fabernovel.com/images/images/faberlogo_SVG.svg" class="img-rounded">
+					<a target='_blank' href='http://fabernovel.com/en/'><img src="http://www.fabernovel.com/images/images/faberlogo_SVG.svg" class="img-rounded"></a>
 				</div>
 				<div class="span8">
-					faberNovel helps large organizations to think and act like startups. faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. 
+					<a href="http://fabernovel.com/en/">faberNovel</a> helps large organizations to think and act like startups. faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. 
 Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Or&eacute;al, Suez Environnement, Toys "R" Us, Danone, Essilor, bioM&eacute;rieux, SNCF, France TV.
 				</div>
 		    </div>
 		  	 <br/>
 		      <div class="row-fluid">
 				<div class="span4">
-					<img src="http://webshell.io/images/webshell-logo-rc1.png" class="img-rounded">
+					<a target='_blank' href='http://webshell.io'><img src="http://webshell.io/images/webshell-logo-rc1.png" class="img-rounded"></a>
 				</div>
 				<div class="span8">
-					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
+					Webshell enables developers to make advanced web and mobile applications based on APIs easily.
+					Webshell has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web.
+					On the Webshell scripting interface, developers combine efficiently both server-side and client side APIs in a console based Javascripty interface,  with authentication and auhtorization by Oauth1.0 or Oauth2.0 in one line of code.
+					Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <a target='_blank' href="http://api500.com/">API rating agency blog</a> and the <a target='_blank' href="http://apijoy.tumblr.com/">{"apis":"the joy"} blog</a>.
 				</div>
 		    </div>
 		    
