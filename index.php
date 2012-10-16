@@ -63,7 +63,7 @@
 			</div>
 			<?php if ($_GET['do'] == 1) {?>
 <!--			<img src="http://maps.googleapis.com/maps/api/staticmap?center=paris&zoom=13&size=600x300&sensor=false"/>-->
-			<a name="speakers"></a>
+			<a name="orgnizer"></a>
 			<div class="row-fluid">
 				<div class="span2 title_section">
 					ORGANIZER
