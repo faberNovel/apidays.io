@@ -99,40 +99,27 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    </div>
 		    
 		     <?php } ?>
-		    <?php if (0) {?>
-		    <a name="sponsors"></a>
+		    <?php if ($_GET['do'] == 1) {?>
+		    <a name="speakers"></a>
 		    <div class="row-fluid">
-				<div class="span3 title_section">
-					SPONSORS
+				<div class="span2 title_section">
+					SPEAKERS
 				</div>
-				<div class="span9">
+				<div class="span10">
 				</div>
 		    </div>
 		    <br/>
 		    <div class="row-fluid">
 				<div class="span4">
-					<img src="http://www.fabernovel.com/images/images/faberlogo_SVG.svg" class="img-rounded">
+					<a target='_blank' href='http://elastic.io'><img src="img/sponsors/elasticio_logo_big.png" class="img-rounded"></a>
 				</div>
 				<div class="span8">
-					faberNovel aide les grandes organisations à penser et agir comme des startups. Elle associe technologies, design et usages &eacute;mergents pour inventer de nouveaux produits, services et expériences. Créée en 2003, faberNovel est aujourd’hui implantée à Paris, San Francisco, New York et Moscou, réunit une équipe de 60 passionnés de l’innovation et accompagne de grandes entreprises : RATP, SFR,  L’Oréal, Suez Environnement, Leroy Merlin, Essilor, bioMérieux, France TV, Canal +, Radio France…
-				</div>
-		    </div>
-		    <br/>
-		      <div class="row-fluid">
-				<div class="span2">
-					<img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded">
-				</div>
-				<div class="span10 texte_bio">
-					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
-				</div>
-		    </div>
-		    <br/>
-		      <div class="row-fluid">
-				<div class="span2">
-					<img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded">
-				</div>
-				<div class="span10 texte_bio">
-					dsqkdjsqjdhssqdsqkjhdsqkjhdsqkjhdsqjkdhsqkdhsqkdhsqjdkhsq
+					Renat Zubairov is a co-founder of <a target='_blank' href='http://elastic.io'>elastic.io</a>, experienced hacker,
+					product owner and agile evangelist. Renat is passionate about SaaS,
+					Application Integration and APIs. He is a speaker on international
+					conferences, user groups and active open source community member.
+					Before elastic.io he was working as Product Owner at Talend, Sopera
+					GmbH and Nokia.
 				</div>
 		    </div>
 		    <?php } ?>
