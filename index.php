@@ -9,6 +9,7 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/apidays.css" rel="stylesheet">
+    <link rel="icon" href="img/apidays_fav.ico">
     <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200' rel='stylesheet' type='text/css'>
   </head>
   <body>
@@ -110,10 +111,10 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    </div>
 		    <br/>
 		    <div class="row-fluid">
-				<div class="span4">
-					<a target='_blank' href="http://elastic.io/"><img src="img/sponsors/elasticio_logo_big.png" class="img-rounded"></a>
+				<div class="span2">
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
 				</div>
-				<div class="span8">
+				<div class="span10">
 					<a target='_blank' href="http://twitter.com/zubairov">Renat Zubairov</a> is a co-founder of <a target='_blank' href="http://elastic.io/">elastic.io</a>, experienced hacker,
 product owner and agile evangelist. Renat is passionate about SaaS,
 Application Integration and APIs. He is a speaker on international
@@ -136,7 +137,7 @@ GmbH and Nokia.
 		      <br/>
 		      <div class="row-fluid">
 				<div class="span2">
-					<a target='_blank' href="http://twitter.com/kinlane"><img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded"></a>
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
 				</div>
 				<div class="span10">
 					John Musser is the founder of ProgrammableWeb.com, the online resource for mashups, APIs and the web as platform. He is a Seattle-based technology consultant, writer and teacher.
@@ -145,7 +146,7 @@ GmbH and Nokia.
 		     <br/>
 		      <div class="row-fluid">
 				<div class="span2">
-					<a target='_blank' href="http://twitter.com/kinlane"><img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded"></a>
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
 				</div>
 				<div class="span10">
 					Steve is a Ruby Hero, software craftsman, and an aspiring digital humanities scholar. He spends most of his time contributing to Open Source projects, and maintains both Hackety Hack andShoes. He also teaches and helps develop curriculum for Jumpstart Lab and has written book on Designing Hypermedia APIs.
@@ -154,7 +155,7 @@ GmbH and Nokia.
 		      <br/>
 		      <div class="row-fluid">
 				<div class="span2">
-					<a target='_blank' href="http://twitter.com/kinlane"><img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded"></a>
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
 				</div>
 				<div class="span10">
 					Jakub is the founder of Apiary: a new hot startup building REST API infrastructure for the rest of us. Prior to Apiary he built and led engineering team at GoodData, built their API strategy, presented at conferences around the world about on topics ranging from node.js & javascript to building startups.
