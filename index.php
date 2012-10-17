@@ -100,7 +100,7 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    </div>
 		    
 		     <?php } ?>
-		    <?php if (1) {?>
+		    <?php if (0) {?>
 		    <a name="speakers"></a>
 		    <div class="row-fluid">
 				<div class="span2 title_section">
