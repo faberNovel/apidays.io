@@ -9,7 +9,7 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/apidays.css" rel="stylesheet">
-    <link rel="icon" href="img/apidays_fav.ico">
+    <link rel="icon" href="img/apidays_fav_2.ico">
     <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200' rel='stylesheet' type='text/css'>
   </head>
   <body>
