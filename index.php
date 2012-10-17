@@ -132,6 +132,27 @@ GmbH and Nokia.
 					<a target='_blank' href="http://twitter.com/kinlane">Kin Lane</a> is a technology professional with an obsession for APIs. He is a renowned blogger in the API sphere: <a target='_blank' href="http://apivoice.com">apivoice.com</a> and <a target='_blank' href="http://apievangelist.com">apievangelist.com</a>.
 				</div>
 		    </div>
+		    <br/>
+		      <div class="row-fluid">
+				<div class="span2">
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
+				</div>
+				<div class="span10">
+					<a target='_blank'  href="https://twitter.com/jakubnesetril">Jakub Nesetril</a> is the founder of <a target='_blank' href="http://apiary.io/">Apiary</a> : a new hot startup building REST API infrastructure for the rest of us. Prior to Apiary he built and led engineering team at GoodData, built their API strategy, presented at conferences around the world about on topics ranging from node.js & javascript to building startups.
+				</div>
+		    </div>
+		    <br/>
+		      <div class="row-fluid">
+				<div class="span2">
+					<img src="img/avatar_defaut.jpg" class="img-rounded">
+				</div>
+				<div class="span10">
+					 David Thoumas - <a href="http://www.opendatasoft.com/">OpenDataSoft</a> co-founder & CTO - 
+David drives OpenDataSoft platform strategy for providing companies with a full-featured cloud-based, data-centric & API-oriented platform. David formerly headed Exalead engineering (a Dassault Systemes Company) and has a great experience of big data issues in industry. OpenDataSoft is dedicated to turn its customers data into API for reaching new business. "Open tne data & make them API together with OpenDataSoft, the data&software company".
+				</div>
+		    </div>
+
+		   
 		    <?php } ?>
 		    <?php if ($_GET['do'] == 1) {?>
 		      <br/>
@@ -152,15 +173,7 @@ GmbH and Nokia.
 					Steve is a Ruby Hero, software craftsman, and an aspiring digital humanities scholar. He spends most of his time contributing to Open Source projects, and maintains both Hackety Hack andShoes. He also teaches and helps develop curriculum for Jumpstart Lab and has written book on Designing Hypermedia APIs.
 				</div>
 		    </div>
-		      <br/>
-		      <div class="row-fluid">
-				<div class="span2">
-					<img src="img/avatar_defaut.jpg" class="img-rounded">
-				</div>
-				<div class="span10">
-					Jakub is the founder of Apiary: a new hot startup building REST API infrastructure for the rest of us. Prior to Apiary he built and led engineering team at GoodData, built their API strategy, presented at conferences around the world about on topics ranging from node.js & javascript to building startups.
-				</div>
-		    </div>
+		      
 		     <?php } ?>
 			
 	    </div>
