@@ -99,7 +99,7 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    </div>
 		    
 		     <?php } ?>
-		    <?php if ($_GET['do'] == 1) {?>
+		    <?php if (1) {?>
 		    <a name="speakers"></a>
 		    <div class="row-fluid">
 				<div class="span2 title_section">
@@ -111,18 +111,27 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    <br/>
 		    <div class="row-fluid">
 				<div class="span4">
-					<a target='_blank' href='http://elastic.io'><img src="img/sponsors/elasticio_logo_big.png" class="img-rounded"></a>
+					<a target='_blank' href="http://elastic.io/"><img src="img/sponsors/elasticio_logo_big.png" class="img-rounded"></a>
 				</div>
 				<div class="span8">
-					Renat Zubairov is a co-founder of <a target='_blank' href='http://elastic.io'>elastic.io</a>, experienced hacker,
-					product owner and agile evangelist. Renat is passionate about SaaS,
-					Application Integration and APIs. He is a speaker on international
-					conferences, user groups and active open source community member.
-					Before elastic.io he was working as Product Owner at Talend, Sopera
-					GmbH and Nokia.
+					Renat Zubairov is a co-founder of <a target='_blank' href="http://elastic.io/">elastic.io</a>, experienced hacker,
+product owner and agile evangelist. Renat is passionate about SaaS,
+Application Integration and APIs. He is a speaker on international
+conferences, user groups and active open source community member.
+Before elastic.io he was working as Product Owner at Talend, Sopera
+GmbH and Nokia.
 				</div>
 		    </div>
-		    <?php } ?>
+		    <br/>
+		      <div class="row-fluid">
+				<div class="span2">
+					<a target='_blank' href="http://twitter.com/kinlane"><img src="http://m4.licdn.com/mpr/mpr/shrink_150_150/p/4/000/15a/274/342a544.jpg" class="img-rounded"></a>
+				</div>
+				<div class="span10 texte_bio">
+					Kin Lane is a technology professional with an obsession for APIs. He is a renowned blogger in the API sphere: <a target='_blank' href="http://apivoice.com">apivoice.com</a> and <a target='_blank' href="http://apievangelist.com">apievangelist.com</a>.
+				</div>
+		    </div>
+		 	  <?php } ?>
 			
 	    </div>
 	</div>
