@@ -148,7 +148,7 @@ GmbH and Nokia.
 				</div>
 				<div class="span10">
 					 David Thoumas - <a href="http://www.opendatasoft.com/">OpenDataSoft</a> co-founder & CTO - 
-David drives OpenDataSoft platform strategy for providing companies with a full-featured cloud-based, data-centric & API-oriented platform. David formerly headed Exalead engineering (a Dassault Systemes Company) and has a great experience of big data issues in industry. OpenDataSoft is dedicated to turn its customers data into API for reaching new business. "Open tne data & make them API together with OpenDataSoft, the data&software company".
+David drives OpenDataSoft platform strategy for providing companies with a full-featured cloud-based, data-centric & API-oriented platform. David formerly headed Exalead engineering (a Dassault Systemes Company) and has a great experience of big data issues in industry. OpenDataSoft is dedicated to turn its customers data into API for reaching new business. "Open the data & make them API together with OpenDataSoft, the data&software company".
 				</div>
 		    </div>
 
