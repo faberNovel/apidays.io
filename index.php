@@ -111,6 +111,25 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 					Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <a target='_blank' href="http://api500.com/">API rating agency blog</a> and the <a target='_blank' href="http://apijoy.tumblr.com/">{"apis":"the joy"} blog</a>.
 				</div>
 		    </div>
+
+		   
+		   	<a name="official_partnet"></a>
+		    <div class="row-fluid">
+				<div class="span3 title_section">
+					OFFICIAL PARTNER
+				</div>
+				<div class="span9">
+				</div>
+		    </div>
+		    <br/>
+		    <div class="row-fluid">
+				<div class="span3">
+					<a target='_blank' href="http://www.epita.fr/"><img src="img/sponsors/Epita.jpg" class="img-rounded"></a>
+				</div>
+				<div class="span9">
+					Established since 28 years, <a target='_blank' href="http://www.epita.fr/">EPITA</a> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).
+				</div>
+		    </div>
 		    
 		     <?php } ?>
 		    <?php if (0) {?>
