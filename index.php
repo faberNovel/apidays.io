@@ -75,7 +75,10 @@
 		    </div>
 		    <div class="bloc_press">
 		   	 <div class="row-fluid">
-		   	 	<div class="span7"></div>
+		   	 	<div class="span7">
+		   	 		<a href="https://twitter.com/apidays2012" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @apidays2012</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		   	 	</div>
 		    	<div class="span5 text_press">PRESS &amp; PARTNERSHIP : <span class="text_blue">contact@apidays.io</span></div>
 		    </div>
 			</div>
