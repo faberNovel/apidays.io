@@ -56,6 +56,12 @@ body {
 
 .register {
 	margin-left: 100px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.container_register {
+	padding-top: 20px;
 }
 
 .texte_bio {
