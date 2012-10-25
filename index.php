@@ -67,7 +67,7 @@
 				<div class="span5">
 					<?php if ($_GET['do'] == 1) {?>
 						<div class="input-prepend form_email">
-							 &nbsp;<a target='_blank' href="www.amiando.com/apidays.html" class="register btn btn-large btn-primary">Register</a>
+							 &nbsp;<a target='_blank' href="http://www.amiando.com/apidays.html" class="register btn btn-large btn-primary">Register</a>
 						</div>
 
 
