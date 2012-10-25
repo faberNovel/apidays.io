@@ -65,12 +65,20 @@
 					
 				</div>
 				<div class="span5">
+					<?php if ($_GET['do'] == 1) {?>
+						<div class="input-prepend form_email">
+							 &nbsp;<a target='_blank' href="www.amiando.com/apidays.html" class="register btn btn-large btn-primary">Register</a>
+						</div>
+
+
+					<?php } else {?>
 					<form action="http://fabernovel.us1.list-manage.com/subscribe/?u=007196e31b139575078fd3780&amp;id=439d4b3d82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			    		<div class="input-prepend form_email">
 				      		<input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="Your email" required>
 					      	 <button action="submit" class="btn btn-large btn-info">Stay tuned</button>
 				      	 </div>
 				     </form>
+				     <?php } ?>
 				</div>
 		    </div>
 		    <div class="bloc_press">

@@ -54,6 +54,10 @@ body {
 	font-weight: 400; 
 }
 
+.register {
+	margin-left: 100px;
+}
+
 .texte_bio {
 	padding-top: 50px;
 }
