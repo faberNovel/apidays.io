@@ -67,7 +67,7 @@
 				<div class="span5">
 					<?php if ($_GET['do'] == 1) {?>
 						<div class="container_register">
-							 <a target='_blank' href="http://www.amiando.com/apidays.html" class="register btn btn-large btn-info">REGISTER NOW !</a>
+							 <a target='_blank' href="http://www.amiando.com/apidays.html" class="register btn btn-large btn-info">REGISTER NOW</a>
 						</div>
 
 
@@ -128,7 +128,7 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 		    </div>
 
 		   
-		   	<a name="official_partnet"></a>
+		   	<a name="official_partner"></a>
 		    <div class="row-fluid">
 				<div class="span3 title_section">
 					OFFICIAL PARTNER
@@ -143,6 +143,25 @@ Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Mosco
 				</div>
 				<div class="span9">
 					Established since 28 years, <a target='_blank' href="http://www.epita.fr/">EPITA</a> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).
+				</div>
+		    </div>
+		    <br/>
+		       	<a name="official_sponsor"></a>
+		    <div class="row-fluid">
+				<div class="span3 title_section">
+					OFFICIAL SPONSOR
+				</div>
+				<div class="span9">
+				</div>
+		    </div>
+		    <br/>
+		    <div class="row-fluid">
+				<div class="span3">
+					<a target='_blank' href="http://www.layer7tech.com/"><img width="220px" height="300px" src="img/sponsors/layer7.png" class="img-rounded"></a>
+				</div>
+				<div class="span9">
+					Layer 7 Technologies helps enterprises and services providers manage APIs in the cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into and extensible platform.  Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth.
+To learn more visit <a target='_blank' href="http://www.layer7tech.com/">http://www.layer7tech.com/</a>.
 				</div>
 		    </div>
 		    
@@ -201,7 +220,7 @@ David drives OpenDataSoft platform strategy for providing companies with a full-
 
 		   
 		    <?php } ?>
-		    <?php if ($_GET['do'] == 1) {?>
+		    <?php if ($_GET['do'] == 2) {?>
 		      <br/>
 		      <div class="row-fluid">
 				<div class="span2">
