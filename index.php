@@ -65,7 +65,7 @@
 					
 				</div>
 				<div class="span5">
-					<?php if ($_GET['do'] == 1) {?>
+					<?php if (1) {?>
 						<div class="container_register">
 							 <a target='_blank' href="http://www.amiando.com/apidays.html" class="register btn btn-large btn-info">REGISTER NOW</a>
 						</div>
