@@ -202,7 +202,7 @@
 			</section><!-- fin section -->
 			<?php } ?>
 			
-			
+			<?php if (0) {?>
 			<section class="section speakers" id="speakers">
 				<div class="inside fil">
 					<div class="pleft">
@@ -300,6 +300,7 @@
 			
 			
 			</section><!-- fin section -->
+			<?php } ?>
 			
 			
 			<section class="section organizers" id="organizers">
