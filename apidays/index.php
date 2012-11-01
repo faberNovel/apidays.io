@@ -27,19 +27,7 @@
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-	  <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-35699861-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+	
 
 </head>
 
@@ -97,8 +85,8 @@
 						<div class="hr"></div>
 						
 						<div class="pad groupeButton">
-							<a href="#" alt="Register" class="button register">Register</a>
-							<a href="#" alt="Apply for keynote" class="button apply_kn">Apply for keynote</a>
+							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>
+							<a href="mailto:contact@apidays.io" alt="Apply for keynote" class="button apply_kn">Apply for keynote</a>
 							<div class="clear"></div>
 						</div><!-- fin pad -->
 						
@@ -114,6 +102,7 @@
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
+			<?php if (0) {?>
 	
 			<section class="section program" id="program">
 				<div class="inside fil">
@@ -211,6 +200,7 @@
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
+			<?php } ?>
 			
 			
 			<section class="section speakers" id="speakers">
@@ -347,13 +337,13 @@
 					<div class="main">
 						<h2 class="rub ico_partners">PARTNERS</h2>
 						
-						<div class="logo"><a href="http://www.eptia.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
+						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>epita</h5>
 							<p>Established since 28 years, <span class="colr">EPITA</span> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
 						</div><!-- fin int -->
 						<div class="clear"></div>
-						
+						<?php if (0) {?>
 						<h2 class="rub ico_media">MEDIAS</h2>
 						
 						<ul>
@@ -361,11 +351,13 @@
 							<li><a href="http://www.france-inter.fr" title="France Inter" target="_blank"><img src="images/logo_franceinter.png" alt="France Inter" /></a></li>
 							<li><a href="http://www.france-televisions.fr" title="France Télévisions" target="_blank"><img src="images/logo_francetv.png" alt="France Télévisions" /></a></li>
 						</ul>
+						<?php } ?>
 						<div class="clear"></div>
 					</div><!-- fin main -->
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</section><!-- fin partenrs -->
+
 			
 			
 			<section class="section pratical" id="pratical">
@@ -450,8 +442,8 @@
 		<footer class="footer">
 			<div class="footerT">
 				<div class="inside">
-					<a href="#" alt="Apply for keynote" class="button apply_kn"><span>Apply for keynote</span></a>
-					<a href="#" alt="Register" class="button register"><span>Register</span></a>
+					<a href="mailto:contact@apidays.io" alt="Apply for keynote" class="button apply_kn"><span>Apply for keynote</span></a>
+					<a href="http://fr.amiando.com/apidays.html" alt="Register" class="button register"><span>Register</span></a>
 					
 					
 					<div class="clear"></div>
@@ -494,15 +486,18 @@
 <script src="js/lib/bg.min.js" type="text/paperscript" canvas="draw" id="bgJs"></script>
 <script src="js/app.js"></script>
 
-<!-- <script>
-var _gaq = [['_setAccount', 'UA-XXXXX-X'], ['_trackPageview']];
-(function(d, t) {
-	var g = d.createElement(t),
-		s = d.getElementsByTagName(t)[0];
-	g.async = true;
-	g.src = ('https:' == location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	s.parentNode.insertBefore(g, s);
-})(document, 'script');
-</script> -->
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35699861-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </body>
 </html>
