@@ -40,8 +40,8 @@
 				<nav class="navigation">
 					<ul class="nav_p" id="nav">
 						<li data-color="#e6e6e6" class="current"><a href="#home">home</a></li>
-						<!--<li data-color="#fff"><a href="#program">PROGRAM</a></li>
-						<li data-color="#e6e6e6"><a href="#speakers">SPEAKERS</a></li>-->
+						<!--<li data-color="#fff"><a href="#program">PROGRAM</a></li>-->
+						<li data-color="#e6e6e6"><a href="#speakers">SPEAKERS</a></li>
 						<li><a href="http://fr.amiando.com/apidays.html" class="external" target="_blank">REGISTER</a></li>
 						<li data-color="#fff"><a href="#organizers">ORGANIZERS</a></li>
 						<li data-color="#e6e6e6"><a href="#partners">PARTNERS &amp; MEDIA SPONSORS</a></li>
@@ -207,14 +207,14 @@
 			</section><!-- fin section -->
 			<?php } ?>
 			
-			<?php if (0) {?>
+			<?php if (1) {?>
 			<section class="section speakers" id="speakers">
 				<div class="inside fil">
 					<div class="pleft">
 						<img src="images/ico_section_speakers.png" alt="Speakers"  class="ico"/>
 					</div><!-- fin pleft -->
 					<div class="main">
-						<h2 class="rub ico_proud">Apidays is proud and thanksfull to welcome a huge panel of international<br />experts of the api world Nullam vulputate consequat sagittis. Etiam iaculis<br />cursus lacus, nec bibendum turpis viverra id.</h2>
+						<h2 class="rub ico_proud">Apidays is proud and thanksfull to welcome a huge panel of international<br />experts of the api world </h2>
 					
 					</div><!-- fin main -->
 						<div class="clear"></div>
@@ -222,6 +222,43 @@
 					<div class="list_speaker">
 					
 						<ul>
+							<li><img src="images/speakers/speaker_KinLane.jpg" alt="Kin Lane" />
+								<div class="desc">
+									<h4 class="name">Kin Lane</h4>
+									<span class="job">API evangelist</span>
+									<span class="society">API evangelist</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_mike_layer7.jpg" alt="Mike Amundsen" />
+								<div class="desc">
+									<h4 class="name">Mike Amundsen</h4>
+									<span class="job">Chief API architect</span>
+									<span class="society">LAYER7</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_steve_klabnik.jpg" alt="Steve Klabnik" />
+								<div class="desc">
+									<h4 class="name">Steve Klabnik</h4>
+									<span class="job"></span>
+									<span class="society"></span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
+								<div class="desc">
+									<h4 class="name">Ronnie Metra</h4>
+									<span class="job">CEO</span>
+									<span class="society">LAYER7</span>
+								</div>
+							</li>
+							
+							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpg" alt="Mehdi Medjaoui" />
+								<div class="desc">
+									<h4 class="name">Mehdi Medjaoui</h4>
+									<span class="job">CEO</span>
+									<span class="society">WEBSHELL</span>
+								</div>
+							</li>
+							<!--
 							<li><img src="images/speakers/speaker_captain.jpg" alt="Captain kunk" />
 								<div class="desc">
 									<h4 class="name">Captain kunk</h4>
@@ -257,43 +294,7 @@
 									<span class="job">CEO</span>
 									<span class="society">WEBSHELL</span>
 								</div>
-							</li>
-							<li><img src="images/speakers/speaker_captain.jpg" alt="Captain kunk" />
-								<div class="desc">
-									<h4 class="name">Captain kunk</h4>
-									<span class="job">The First Hackers in History</span>
-									<span class="society">INDEPENDANT WIZZARD</span>
-								</div>
-							</li>
-							<li><img src="images/speakers/speaker_antonin.jpg" alt="Antonin" />
-								<div class="desc">
-									<h4 class="name">Antonin Torikian</h4>
-									<span class="job">Lead Project Manager</span>
-									<span class="society">FABER NOVEL</span>
-								</div>
-							</li>
-							<li><img src="images/speakers/speaker_aurelien_fache.jpg" alt="Aurelien Fache" />
-								<div class="desc">
-									<h4 class="name">Aurelien Fache</h4>
-									<span class="job">API Pope</span>
-									<span class="society">FABER NOVEL</span>
-								</div>
-							</li>
-							<li><img src="images/speakers/speaker_apigee.jpg" alt="Chet Kapoor" />
-								<div class="desc">
-									<h4 class="name">Chet Kapoor</h4>
-									<span class="job">CEO</span>
-									<span class="society">Apigee</span>
-								</div>
-							</li>
-							
-							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpg" alt="Mehdi Medjaoui" />
-								<div class="desc">
-									<h4 class="name">Mehdi Medjaoui</h4>
-									<span class="job">CEO</span>
-									<span class="society">WEBSHELL</span>
-								</div>
-							</li>
+							</li>-->
 						</ul>
 					
 						<div class="clear"></div>
@@ -317,13 +318,13 @@
 						<ul>
 							<li>
 								<div class="logo_organizers"><img src="images/logo_fabernovel.png" alt="Faber Novel" /></div>
-								<h3><span class="colr">faberNovel</span> helps large organizations to think and act like startups.</h3>
+								<h3><a target='_blank' href="http://fabernovel.com"><span class="colr">faberNovel</span></a> helps large organizations to think and act like startups.</h3>
 								<p>faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Oréal, Suez Environnement, Toys "R" Us, Danone, Essilor, bioMérieux, SNCF, France TV.</p>
 							</li>
 							<li class="last">
 								<div class="logo_organizers"><img src="images/logo_webshell.png" alt="Web Shell" /></div>
 								<h3>Webshell enables developers to make advanced web and mobile applications based on APIs easily. </h3>
-								<p><span class="colr">Webshell</span> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. On the Webshell scripting interface, developers combine efficiently both server-side and client side APIs in a console based Javascripty interface, with authentication and auhtorization by Oauth1.0 or Oauth2.0 in one line of code. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <span class="colr">API rating agency blog</span> and the <span class="colr">{"apis":"the joy"} blog</span>.</p>
+								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. On the Webshell scripting interface, developers combine efficiently both server-side and client side APIs in a console based Javascripty interface, with authentication and auhtorization by Oauth1.0 or Oauth2.0 in one line of code. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <span class="colr">API rating agency blog</span> and the <span class="colr">{"apis":"the joy"} blog</span>.</p>
 							</li>
 						</ul>
 						<div class="clear"></div>
@@ -349,6 +350,15 @@
 							<p>Established since 28 years, <span class="colr">EPITA</span> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
 						</div><!-- fin int -->
 						<div class="clear"></div>
+						<br/>
+
+						<div class="logo"><a href="http://www.layer7tech.com" title="Epita"><img width=181 height=100 src="images/layer7.png" alt="Epita" /></a></div>
+						<div class="int">
+							<h5>Layer 7</h5>
+							<p>Layer 7 Technologies helps enterprises and services providers manage APIs in the cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into and extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
+						</div><!-- fin int -->
+						<div class="clear"></div>
+						
 						<?php if (0) {?>
 						<h2 class="rub ico_media">MEDIAS</h2>
 						
