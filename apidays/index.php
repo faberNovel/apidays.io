@@ -62,7 +62,12 @@
 						<img src="images/logo_apiday.png" alt="Api Day" class="logo" />
 						
 						<div class="socials">
-						
+							<br/>
+							<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://apidays.io" data-via="apidays2012" data-related="apidays2012">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							<br/><br/>
+							<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>						
 						</div><!-- fin socials -->
 						
 					</div><!-- fin sleft -->
@@ -486,6 +491,15 @@
 <script src="js/lib/paper.min.js" type="text/javascript" id="paperJs"></script>
 <script src="js/lib/bg.min.js" type="text/paperscript" canvas="draw" id="bgJs"></script>
 <script src="js/app.js"></script>
+<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=223599037652849";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
 
   <script type="text/javascript">
 
