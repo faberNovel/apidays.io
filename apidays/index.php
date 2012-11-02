@@ -294,6 +294,41 @@
 									<span class="society">OpenStreetMap France</span>
 								</div>
 							</li>
+							<li><img src="images/speakers/speaker_verdier.jpg" alt="Henri Verdier" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/henriverdier'><span class="colr">Henri Verdier</span></a></h4>
+									<span class="job">Entrepreneur</span>
+									<span class="society">MFG-RD</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_exalead.jpg" alt="Xavier Gréhant" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
+									<span class="job">Product Manager</span>
+									<span class="society">Exalead</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_jakub-nesetril_Apiary.jpg" alt="Jakub Nesetril" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=4492193'><span class="colr">Jakub Nesetril</span></a></h4>
+									<span class="job">Founder</span>
+									<span class="society">apiary.io</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_renat_zubairov_elastic.jpg" alt="Renat Zubairov" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Renat Zubairov</span></a></h4>
+									<span class="job">co-founder</span>
+									<span class="society">@elasticio</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_ori_jpg" alt="Ori Pekelman" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=396107'><span class="colr">Ori Pekelman</span></a></h4>
+									<span class="job">Entrepreneuring</span>
+									<span class="society">&nbsp;</span>
+								</div>
+							</li>
 							
 						
 					</ul>
