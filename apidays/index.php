@@ -23,6 +23,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300,200' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/styles.css?v=1.0">
 
+
 	<!-- Remove the script reference below if you're using Modernizr -->
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -435,6 +436,10 @@
 						<div class="clear"></div>
 					</div><!-- fin main -->
 					<div class="clear"></div>
+					<?php if ($_GET['do'] == 1) {?>
+						<div id="map_canvas" style="width:995px; height:603px"></div> 
+
+					<?php } else {?>
 					<div class="map">
 					
 						<div class="marker marker1"><span class="tram"></span><span class="metro"></span>Porte d'italie</div><!-- fin marker -->
@@ -451,6 +456,7 @@
 						</div><!-- fin marker -->
 					
 					</div><!-- fin map -->
+					<?php } ?>
 					
 					<div class="main">
 						<h2 class="rub ico_howto">How to get there ?</h2>
@@ -536,6 +542,58 @@
 <!-- BG JS -->
 <script src="js/lib/paper.min.js" type="text/javascript" id="paperJs"></script>
 <script src="js/lib/bg.min.js" type="text/paperscript" canvas="draw" id="bgJs"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+<script type="text/javascript">
+
+  var map;
+  var markersArray = [];
+	var geocoder;
+	var stylez = [
+	  {
+	    featureType: "poi",
+	    stylers: [
+	      { visibility: "on" }
+	    ]
+	  },{
+	    featureType: "road",
+	    stylers: [
+	      { visibility: "on" }
+	    ]
+	  },{
+	    featureType: "administrative",
+	    stylers: [
+	      { visibility: "off" }
+	    ]
+	  },{
+	    featureType: "road.local",
+	    stylers: [
+	      { visibility: "simplified" }
+	    ]
+	  },{
+	  }
+	];
+
+$(document).ready(function () {
+	var france = new google.maps.LatLng(48.815625871560094, 2.3613972153442546);
+		geocoder = new google.maps.Geocoder();
+	    var mapOptions = {
+	      zoom: 16,
+	      center: france,
+	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	    };
+	    map = new google.maps.Map(document.getElementById("map_canvas"),
+	        mapOptions);
+	    map.scrollwheel = false;
+	   	 var styledMapOptions = {
+			map: map,
+			name: "tips4phpHip-Hop"
+		}
+	
+	var testmap =  new google.maps.StyledMapType(stylez,styledMapOptions);
+	map.mapTypes.set('tips4php', testmap);
+	map.setMapTypeId('tips4php');
+})
+</script>
 <script src="js/app.js"></script>
 <div id="fb-root"></div>
 	<script>(function(d, s, id) {
