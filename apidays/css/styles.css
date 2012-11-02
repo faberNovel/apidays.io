@@ -232,7 +232,8 @@ a.apply_kn:hover{
 	margin-left: 0;
 }
 .list_speaker li img{
-	width: 181px;
+	width: 152px;
+	padding-top: 2px;
 }
 .list_speaker li .desc{
 	width: 169px;
