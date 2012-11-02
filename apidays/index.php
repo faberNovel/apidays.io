@@ -289,7 +289,7 @@
 							</li>
 							<li><img src="images/speakers/speaker_gael.jpg" alt="Gael MUSQUET" />
 								<div class="desc">
-									<h4 class="name"><a target='_blank' href='http://twitter.com/RatZillaS'><span class="colr">Anca Foste</span></a></h4>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/RatZillaS'><span class="colr">Gael MUSQUET</span></a></h4>
 									<span class="job">Chairman</span>
 									<span class="society">OpenStreetMap France</span>
 								</div>
