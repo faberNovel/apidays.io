@@ -243,11 +243,25 @@
 									<span class="society">@steveklabnik</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
+							<li><img src="images/speakers/speaker_layer7_francois.jpg" alt="Francois Lascelles" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=12942855'><span class="colr">Francois Lascelles</span></a></h4>
+									<span class="job">Chief Architect</span>
+									<span class="society">LAYER7</span>
+								</div>
+							</li>
+								<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
 								<div class="desc">
 									<h4 class="name">Ronnie Metra</h4>
 									<span class="job">API Architect</span>
 									<span class="society">LAYER7</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_fabernovel.jpg" alt="Stéphane Distinguin" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://twitter.com/fano'><span class="colr">Stéphane Distinguin</span></a></h4>
+									<span class="job">CEO</span>
+									<span class="society">faberNovel</span>
 								</div>
 							</li>
 							
@@ -258,44 +272,31 @@
 									<span class="society">WEBSHELL</span>
 								</div>
 							</li>
-							<!--
-							<li><img src="images/speakers/speaker_captain.jpg" alt="Captain kunk" />
+							
+							<li><img src="images/speakers/speaker_lemonde.jpg" alt="Ismaël Héry" />
 								<div class="desc">
-									<h4 class="name">Captain kunk</h4>
-									<span class="job">The First Hackers in History</span>
-									<span class="society">INDEPENDANT WIZZARD</span>
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=101539059'><span class="colr">Ismaël Héry</span></a></h4>
+									<span class="job">Head of developpement</span>
+									<span class="society">Le Monde</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_antonin.jpg" alt="Antonin" />
+							<li><img src="images/speakers/speaker_anca.jpg" alt="Anca Foster" />
 								<div class="desc">
-									<h4 class="name">Antonin Torikian</h4>
-									<span class="job">Lead Project Manager</span>
-									<span class="society">FABER NOVEL</span>
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">Anca Foste</span></a></h4>
+									<span class="job">CEE Operations Manager</span>
+									<span class="society">Startup Weekend</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_aurelien_fache.jpg" alt="Aurelien Fache" />
+							<li><img src="images/speakers/speaker_gael.jpg" alt="Gael MUSQUET" />
 								<div class="desc">
-									<h4 class="name">Aurelien Fache</h4>
-									<span class="job">API Pope</span>
-									<span class="society">FABER NOVEL</span>
-								</div>
-							</li>
-							<li><img src="images/speakers/speaker_apigee.jpg" alt="Chet Kapoor" />
-								<div class="desc">
-									<h4 class="name">Chet Kapoor</h4>
-									<span class="job">CEO</span>
-									<span class="society">Apigee</span>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/RatZillaS'><span class="colr">Anca Foste</span></a></h4>
+									<span class="job">Chairman</span>
+									<span class="society">OpenStreetMap France</span>
 								</div>
 							</li>
 							
-							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpg" alt="Mehdi Medjaoui" />
-								<div class="desc">
-									<h4 class="name">Mehdi Medjaoui</h4>
-									<span class="job">CEO</span>
-									<span class="society">WEBSHELL</span>
-								</div>
-							</li>-->
-						</ul>
+						
+					</ul>
 					
 						<div class="clear"></div>
 					</div><!-- fin speaker -->
