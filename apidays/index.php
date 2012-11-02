@@ -224,36 +224,36 @@
 						<ul>
 							<li><img src="images/speakers/speaker_KinLane.jpg" alt="Kin Lane" />
 								<div class="desc">
-									<h4 class="name">Kin Lane</h4>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/kinlane'><span class="colr">Kin Lane</span></a></h4>
 									<span class="job">API evangelist</span>
 									<span class="society">API evangelist</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_mike_layer7.jpg" alt="Mike Amundsen" />
 								<div class="desc">
-									<h4 class="name">Mike Amundsen</h4>
-									<span class="job">Chief API architect</span>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/mamund'><span class="colr">Mike Amundsen</span></a></h4>
+									<span class="job">Principal API Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_steve_klabnik.jpg" alt="Steve Klabnik" />
 								<div class="desc">
-									<h4 class="name">Steve Klabnik</h4>
-									<span class="job"></span>
-									<span class="society"></span>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/steveklabnik'><span class="colr">Steve Klabnik</span></a></h4>
+									<span class="job">Ruby Hero</span>
+									<span class="society">@steveklabnik</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
 								<div class="desc">
 									<h4 class="name">Ronnie Metra</h4>
-									<span class="job">CEO</span>
+									<span class="job">API Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
 							</li>
 							
 							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpg" alt="Mehdi Medjaoui" />
 								<div class="desc">
-									<h4 class="name">Mehdi Medjaoui</h4>
+									<h4 class="name"><a target='_blank' href='http://twitter.com/Webshell_'><span class="colr">Mehdi Medjaoui</span></a></h4>
 									<span class="job">CEO</span>
 									<span class="society">WEBSHELL</span>
 								</div>
@@ -342,7 +342,7 @@
 						<img src="images/ico_section_partners.png" alt="Partners"  class="ico"/>
 					</div><!-- fin pleft -->
 					<div class="main">
-						<h2 class="rub ico_partners">PARTNERS</h2>
+						<h2 class="rub ico_partners">OFFICIAL PARTNERS</h2>
 						
 						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
 						<div class="int">
@@ -360,7 +360,7 @@
 						<div class="clear"></div>
 						
 						<?php if (0) {?>
-						<h2 class="rub ico_media">MEDIAS</h2>
+						<h2 class="rub ico_media">MEDIAS PARTNERS</h2>
 						
 						<ul>
 							<li><a href="http://www.owni.fr" title="Owni" target="_blank"><img src="images/logo_owni.png" alt="Owni" /></a></li>
