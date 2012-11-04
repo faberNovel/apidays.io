@@ -45,7 +45,7 @@
 						<li data-color="#e6e6e6"><a href="#speakers">SPEAKERS</a></li>
 						<li><a href="http://fr.amiando.com/apidays.html" class="external" target="_blank">REGISTER</a></li>
 						<li data-color="#fff"><a href="#organizers">ORGANIZERS</a></li>
-						<li data-color="#e6e6e6"><a href="#partners">PARTNERS &amp; MEDIA SPONSORS</a></li>
+						<li data-color="#e6e6e6"><a href="#partners">SPONSORS &amp; MEDIA</a></li>
 						<li data-color="#fff"><a href="#pratical">PRACTICAL DETAILS</a></li>
 					</ul>
 					<div class="clear"></div>
