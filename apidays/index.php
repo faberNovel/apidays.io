@@ -244,18 +244,33 @@
 									<span class="society">@steveklabnik</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_layer7_francois.jpg" alt="Francois Lascelles" />
+						<!--	<li><img src="images/speakers/speaker_layer7_francois.jpg" alt="Francois Lascelles" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=12942855'><span class="colr">Francois Lascelles</span></a></h4>
 									<span class="job">Chief Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
-							</li>
+							</li>-->
 								<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
 								<div class="desc">
 									<h4 class="name">Ronnie Metra</h4>
 									<span class="job">API Architect</span>
 									<span class="society">LAYER7</span>
+								</div>
+							</li>
+							<li><img src="images/speakers/speaker_anca.jpg" alt="Anca Foster" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">Anca Foste</span></a></h4>
+									<span class="job">CEE Operations Manager</span>
+									<span class="society">Startup Weekend</span>
+								</div>
+							</li>
+							</li>
+							<li><img src="images/speakers/speaker_3scale.png" alt="guillaume balas" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=1554452'><span class="colr">Guillaume Balas</span></a></h4>
+									<span class="job">CMO</span>
+									<span class="society">3scale</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_fabernovel.jpg" alt="Stéphane Distinguin" />
@@ -281,13 +296,7 @@
 									<span class="society">Le Monde</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_anca.jpg" alt="Anca Foster" />
-								<div class="desc">
-									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">Anca Foste</span></a></h4>
-									<span class="job">CEE Operations Manager</span>
-									<span class="society">Startup Weekend</span>
-								</div>
-							</li>
+							
 							<li><img src="images/speakers/speaker_gael.jpg" alt="Gael MUSQUET" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/RatZillaS'><span class="colr">Gael MUSQUET</span></a></h4>
@@ -295,13 +304,13 @@
 									<span class="society">OpenStreetMap France</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_verdier.jpg" alt="Henri Verdier" />
+<!--							<li><img src="images/speakers/speaker_verdier.jpg" alt="Henri Verdier" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/henriverdier'><span class="colr">Henri Verdier</span></a></h4>
 									<span class="job">Entrepreneur</span>
 									<span class="society">MFG-RD</span>
 								</div>
-							</li>
+							</li>-->
 							<li><img src="images/speakers/speaker_exalead.jpg" alt="Xavier Gréhant" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
@@ -316,11 +325,18 @@
 									<span class="society">apiary.io</span>
 								</div>
 							</li>
+							<li><img src="images/speakers/speaker_xing.jpg" alt="Björn Minkmar" />
+								<div class="desc">
+									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Björn Minkmar</span></a></h4>
+									<span class="job">Senior Product Manager</span>
+									<span class="society">XING</span>
+								</div>
+							</li>
 							<li><img src="images/speakers/speaker_renat_zubairov_elastic.jpg" alt="Renat Zubairov" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Renat Zubairov</span></a></h4>
 									<span class="job">co-founder</span>
-									<span class="society">@elasticio</span>
+									<span class="society">elasticio</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_ori_jpg" alt="Ori Pekelman" />
@@ -361,7 +377,7 @@
 							<li class="last">
 								<div class="logo_organizers"><img src="images/logo_webshell.png" alt="Web Shell" /></div>
 								<h3>Webshell enables developers to make advanced web and mobile applications based on APIs easily. </h3>
-								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. On the Webshell scripting interface, developers combine efficiently both server-side and client side APIs in a console based Javascripty interface, with authentication and auhtorization by Oauth1.0 or Oauth2.0 in one line of code. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <span class="colr">API rating agency blog</span> and the <span class="colr">{"apis":"the joy"} blog</span>.</p>
+								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <span class="colr">API rating agency blog</span> and the <span class="colr">{"apis":"the joy"} blog</span>.</p>
 							</li>
 						</ul>
 						<div class="clear"></div>
@@ -379,7 +395,7 @@
 						<img src="images/ico_section_partners.png" alt="Partners"  class="ico"/>
 					</div><!-- fin pleft -->
 					<div class="main">
-						<h2 class="rub ico_partners">OFFICIAL PARTNERS</h2>
+						<h2 class="rub ico_partners">OFFICIAL SPONSORS</h2>
 						
 						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
 						<div class="int">
@@ -552,7 +568,7 @@
 	  {
 	    featureType: "poi",
 	    stylers: [
-	      { visibility: "on" }
+	      { visibility: "off" }
 	    ]
 	  },{
 	    featureType: "road",
@@ -573,7 +589,7 @@
 	  }
 	];
 
-$(document).ready(function () {
+
 	var france = new google.maps.LatLng(48.815625871560094, 2.3613972153442546);
 		geocoder = new google.maps.Geocoder();
 	    var mapOptions = {
@@ -592,7 +608,7 @@ $(document).ready(function () {
 	var testmap =  new google.maps.StyledMapType(stylez,styledMapOptions);
 	map.mapTypes.set('tips4php', testmap);
 	map.setMapTypeId('tips4php');
-})
+
 </script>
 <script src="js/app.js"></script>
 <div id="fb-root"></div>
