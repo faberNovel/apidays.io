@@ -525,7 +525,7 @@
 		<footer class="footer">
 			<div class="footerT">
 				<div class="inside">
-					<a href="mailto:contact@apidays.io" alt="Apply for keynote" class="button apply_kn"><span>Apply for keynote</span></a>
+					<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn"><span>Apply for keynote</span></a>
 					<a href="http://fr.amiando.com/apidays.html" alt="Register" class="button register"><span>Register</span></a>
 					
 					
