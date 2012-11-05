@@ -256,14 +256,14 @@
 							</li>-->
 								<li><img src="images/speakers/speaker_ronnie_metra.jpeg" alt="Ronnie Metra" />
 								<div class="desc">
-									<h4 class="name">Ronnie Metra</h4>
+									<h4 class="name">Ronnie Mitra</h4>
 									<span class="job">API Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_anca.jpeg" alt="Anca Foster" />
 								<div class="desc">
-									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">Anca Foste</span></a></h4>
+									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">ANCA FOSTER</span></a></h4>
 									<span class="job">CEE Operations Manager</span>
 									<span class="society">Startup Weekend</span>
 								</div>
@@ -346,7 +346,7 @@
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=396107'><span class="colr">Ori Pekelman</span></a></h4>
 									<span class="job">Entrepreneuring</span>
-									<span class="society">&nbsp;</span>
+									<span class="society">Ind&eacute;pendant</span>
 								</div>
 							</li>
 							
