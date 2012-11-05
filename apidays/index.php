@@ -223,21 +223,21 @@
 					<div class="list_speaker">
 					
 						<ul>
-							<li><img src="images/speakers/speaker_KinLane.jpg" alt="Kin Lane" />
+							<li><img src="images/speakers/speaker_KinLane.jpeg" alt="Kin Lane" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/kinlane'><span class="colr">Kin Lane</span></a></h4>
 									<span class="job">API evangelist</span>
 									<span class="society">API evangelist</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_mike_layer7.jpg" alt="Mike Amundsen" />
+							<li><img src="images/speakers/speaker_mike_layer7.jpeg" alt="Mike Amundsen" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/mamund'><span class="colr">Mike Amundsen</span></a></h4>
 									<span class="job">Principal API Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_steve_klabnik.jpg" alt="Steve Klabnik" />
+							<li><img src="images/speakers/speaker_steve_klabnik.jpeg" alt="Steve Klabnik" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/steveklabnik'><span class="colr">Steve Klabnik</span></a></h4>
 									<span class="job">Ruby Hero</span>
@@ -251,14 +251,14 @@
 									<span class="society">LAYER7</span>
 								</div>
 							</li>-->
-								<li><img src="images/speakers/speaker_ronnie_metra.jpg" alt="Ronnie Metra" />
+								<li><img src="images/speakers/speaker_ronnie_metra.jpeg" alt="Ronnie Metra" />
 								<div class="desc">
 									<h4 class="name">Ronnie Metra</h4>
 									<span class="job">API Architect</span>
 									<span class="society">LAYER7</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_anca.jpg" alt="Anca Foster" />
+							<li><img src="images/speakers/speaker_anca.jpeg" alt="Anca Foster" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=32550326'><span class="colr">Anca Foste</span></a></h4>
 									<span class="job">CEE Operations Manager</span>
@@ -273,7 +273,7 @@
 									<span class="society">3scale</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_fabernovel.jpg" alt="Stéphane Distinguin" />
+							<li><img src="images/speakers/speaker_fabernovel.jpeg" alt="Stéphane Distinguin" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/fano'><span class="colr">Stéphane Distinguin</span></a></h4>
 									<span class="job">CEO</span>
@@ -281,7 +281,7 @@
 								</div>
 							</li>
 							
-							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpg" alt="Mehdi Medjaoui" />
+							<li><img src="images/speakers/speaker_mehdi_medjaoui.jpeg" alt="Mehdi Medjaoui" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/Webshell_'><span class="colr">Mehdi Medjaoui</span></a></h4>
 									<span class="job">CEO</span>
@@ -289,7 +289,7 @@
 								</div>
 							</li>
 							
-							<li><img src="images/speakers/speaker_lemonde.jpg" alt="Ismaël Héry" />
+							<li><img src="images/speakers/speaker_lemonde.jpeg" alt="Ismaël Héry" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=101539059'><span class="colr">Ismaël Héry</span></a></h4>
 									<span class="job">Head of developpement</span>
@@ -297,7 +297,7 @@
 								</div>
 							</li>
 							
-							<li><img src="images/speakers/speaker_gael.jpg" alt="Gael MUSQUET" />
+							<li><img src="images/speakers/speaker_gael.jpeg" alt="Gael MUSQUET" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/RatZillaS'><span class="colr">Gael MUSQUET</span></a></h4>
 									<span class="job">Chairman</span>
@@ -311,35 +311,35 @@
 									<span class="society">MFG-RD</span>
 								</div>
 							</li>-->
-							<li><img src="images/speakers/speaker_exalead.jpg" alt="Xavier Gréhant" />
+							<li><img src="images/speakers/speaker_exalead.jpeg" alt="Xavier Gréhant" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
 									<span class="job">Product Manager</span>
 									<span class="society">Exalead</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_jakub-nesetril_Apiary.jpg" alt="Jakub Nesetril" />
+							<li><img src="images/speakers/speaker_jakub-nesetril_Apiary.jpeg" alt="Jakub Nesetril" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=4492193'><span class="colr">Jakub Nesetril</span></a></h4>
 									<span class="job">Founder</span>
 									<span class="society">apiary.io</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_xing.jpg" alt="Björn Minkmar" />
+							<li><img src="images/speakers/speaker_xing.jpeg" alt="Björn Minkmar" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Björn Minkmar</span></a></h4>
 									<span class="job">Senior Product Manager</span>
 									<span class="society">XING</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_renat_zubairov_elastic.jpg" alt="Renat Zubairov" />
+							<li><img src="images/speakers/speaker_renat_zubairov_elastic.jpeg" alt="Renat Zubairov" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Renat Zubairov</span></a></h4>
 									<span class="job">co-founder</span>
 									<span class="society">elasticio</span>
 								</div>
 							</li>
-							<li><img src="images/speakers/speaker_ori_jpg" alt="Ori Pekelman" />
+							<li><img src="images/speakers/speaker_ori_jpg.jpeg" alt="Ori Pekelman" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=396107'><span class="colr">Ori Pekelman</span></a></h4>
 									<span class="job">Entrepreneuring</span>
@@ -405,7 +405,7 @@
 						<div class="clear"></div>
 						<br/>
 
-						<div class="logo"><a href="http://www.layer7tech.com" title="Epita"><img width=181 height=100 src="images/layer7.png" alt="Epita" /></a></div>
+						<div class="logo"><a target='_blank' href="http://www.layer7tech.com" title="Epita"><img src="images/sponsors/logo_layer7.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>Layer 7</h5>
 							<p>Layer 7 Technologies helps enterprises and services providers manage APIs in the cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into and extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
