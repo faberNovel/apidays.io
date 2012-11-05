@@ -452,7 +452,7 @@
 						<div class="clear"></div>
 					</div><!-- fin main -->
 					<div class="clear"></div>
-					<?php if ($_GET['do'] == 1) {?>
+					<?php if ($_GET['do'] == 1) {?><br/>
 						<div id="map_canvas" style="width:995px; height:603px"></div> 
 
 					<?php } else {?>
@@ -564,38 +564,38 @@
   var map;
   var markersArray = [];
 	var geocoder;
-	var stylez = [
-	  {
-	    featureType: "poi",
-	    stylers: [
-	      { visibility: "off" }
-	    ]
-	  },{
-	    featureType: "road",
-	    stylers: [
-	      { visibility: "on" }
-	    ]
-	  },{
-	    featureType: "administrative",
-	    stylers: [
-	      { visibility: "off" }
-	    ]
-	  },{
-	    featureType: "road.local",
-	    stylers: [
-	      { visibility: "simplified" }
-	    ]
-	  },{
-	  }
-	];
+	 var stylez = [
+    {
+      stylers: [
+        { hue: "#00ffe6" },
+        { saturation: -20 }
+      ]
+    },{
+      featureType: "road",
+      elementType: "geometry",
+      stylers: [
+        { lightness: 100 },
+        { visibility: "simplified" }
+      ]
+    },{
+      featureType: "road",
+      elementType: "labels",
+      stylers: [
+        { visibility: "off" }
+      ]
+    }
+  ];
+
 
 
 	var france = new google.maps.LatLng(48.815625871560094, 2.3613972153442546);
 		geocoder = new google.maps.Geocoder();
 	    var mapOptions = {
-	      zoom: 16,
+	      zoom: 17,
 	      center: france,
-	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	      disableDefaultUI: true,
+	       zoomControl: true,
+	      mapTypeId: google.maps.MapTypeId.TERRAIN
 	    };
 	    map = new google.maps.Map(document.getElementById("map_canvas"),
 	        mapOptions);
@@ -608,6 +608,17 @@
 	var testmap =  new google.maps.StyledMapType(stylez,styledMapOptions);
 	map.mapTypes.set('tips4php', testmap);
 	map.setMapTypeId('tips4php');
+var epita  = new google.maps.LatLng(48.815766218853554, 2.3629008601882333);
+addMarker(epita);
+
+function addMarker(location) {
+  marker = new google.maps.Marker({
+    position: location,
+    map: map
+  });
+  markersArray.push(marker);
+}
+
 
 </script>
 <script src="js/app.js"></script>
