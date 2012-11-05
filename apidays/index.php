@@ -400,28 +400,34 @@
 					<div class="main">
 						<h2 class="rub ico_partners">OFFICIAL SPONSORS</h2>
 						
-						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
-						<div class="int">
-							<h5>epita</h5>
-							<p>Established since 28 years, <span class="colr">EPITA</span> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
-						</div><!-- fin int -->
-						<div class="clear"></div>
-						<br/>
-
+						
 						<div class="logo"><a target='_blank' href="http://www.layer7tech.com" title="Epita"><img src="images/sponsors/logo_layer7.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>Layer 7</h5>
 							<p>Layer 7 Technologies helps enterprises and services providers manage APIs in the cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into and extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
 						</div><!-- fin int -->
+							<div class="clear"></div>
+						<br/><br/>
+						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
+						<div class="int">
+							<h5>epita</h5>
+							<p>Established since 28 years, <span class="colr">EPITA</span> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
+						</div><!-- fin int -->
+					
 						<div class="clear"></div>
 						
-						<?php if (0) {?>
+						<?php if (1) {?>
 						<h2 class="rub ico_media">MEDIAS PARTNERS</h2>
 						
 						<ul>
-							<li><a href="http://www.owni.fr" title="Owni" target="_blank"><img src="images/logo_owni.png" alt="Owni" /></a></li>
-							<li><a href="http://www.france-inter.fr" title="France Inter" target="_blank"><img src="images/logo_franceinter.png" alt="France Inter" /></a></li>
-							<li><a href="http://www.france-televisions.fr" title="France Télévisions" target="_blank"><img src="images/logo_francetv.png" alt="France Télévisions" /></a></li>
+							<li><a href="http://www.itespresso.fr/" title="ITespresso" target="_blank"><img src="images/sponsors/logo_itespresso.png" alt="ITespresso" /></a></li>
+							<li><a href="http://www.programmableweb.com" title="ProgrammableWeb" target="_blank"><img src="images/sponsors/logo_programmableWeb.png" alt="ProgrammableWeb" /></a></li>
+							<li><a href="http://www.satellinet.fr/" title="satellinet" target="_blank"><img src="images/sponsors/logo_satellinet.png" alt="satellinet" /></a></li>
+							<li><a href="http://www.channelbiz.fr/" title="channelbiz" target="_blank"><img src="images/sponsors/logo_channelBiz.png" alt="channelbiz" /></a></li>
+							<li><a href="http://www.silicon.fr/" title="sillicon" target="_blank"><img src="images/sponsors/logo_silicon.png" alt="sillicon fr" /></a></li>
+								
+							<li><a href="http://apievangelist.com/" title="API evangelist" target="_blank"><img src="images/sponsors/logo_APIEevangelist.png" alt="satellinet" /></a></li>
+							
 						</ul>
 						<?php } ?>
 						<div class="clear"></div>
