@@ -70,6 +70,9 @@
 							<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/Share" data-counter="right"></script>						
 						</div><!-- fin socials -->
+						<div>
+								<br/><img src="images/powered_by.png" alt="powered by" />
+						</div>
 						
 					</div><!-- fin sleft -->
 					
