@@ -70,8 +70,8 @@
 							<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 <script type="IN/Share" data-counter="right"></script>						
 						</div><!-- fin socials -->
-						<div>
-								<br/><img src="images/powered_by.png" alt="powered by" />
+						<div class='poweredby'>
+								<br/><br/><img src="images/powered_by.png" alt="powered by" />
 						</div>
 						
 					</div><!-- fin sleft -->
@@ -95,7 +95,7 @@
 						
 						<div class="pad groupeButton">
 							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>
-							<a href="mailto:contact@apidays.io" alt="Apply for keynote" class="button apply_kn">Apply for keynote</a>
+							<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn">Apply for keynote</a>
 							<div class="clear"></div>
 						</div><!-- fin pad -->
 						
@@ -455,7 +455,7 @@
 						<div class="anyQ">
 							<h5>Any questions ?</h5>
 							<p>Please feel free to contact us</p>
-							<a href="mailto:contact@apidays.io" title="contact@apidays.io" target="_blank"><span>contact@apidays.io</span></a>
+							<a href="mailto:contact@apidays.io?subject=keynote" title="contact@apidays.io" target="_blank"><span>contact@apidays.io</span></a>
 						</div><!-- fin anyQ -->
 
 						<div class="clear"></div>
