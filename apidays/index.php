@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Apidays</title>
+	<title>APIdays, The First International event on APIs in Europe #apidays</title>
 	<meta name="description" content="Apidays">
 	<meta name="author" content="">
 	<meta name="viewport" content="user-scalable=yes, width=device-width" />
