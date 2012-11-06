@@ -68,7 +68,10 @@
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 							<br/><br/>
 							<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/Share" data-counter="right"></script>						
+<script type="IN/Share" data-counter="right"></script>
+							<br/><br/>
+							<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+
 						</div><!-- fin socials -->
 						<div class='poweredby'>
 								<br/><br/><img src="images/powered_by.png" alt="powered by" />
@@ -380,7 +383,7 @@
 							<li class="last">
 								<div class="logo_organizers"><img src="images/logo_webshell.png" alt="Web Shell" /></div>
 								<h3>Webshell enables developers to make advanced web and mobile applications based on APIs easily. </h3>
-								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <span class="colr">API rating agency blog</span> and the <span class="colr">{"apis":"the joy"} blog</span>.</p>
+								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <a target='_blank' href="http://api500.com/"><span class="colr">API rating agency blog</span></a> and the <a target='_blank' href="http://apijoy.tumblr.com/"><span class="colr">{"apis":"the joy"} blog</span></a>.</p>
 							</li>
 						</ul>
 						<div class="clear"></div>
@@ -408,10 +411,10 @@
 						</div><!-- fin int -->
 							<div class="clear"></div>
 						<br/><br/>
-						<div class="logo"><a href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
+						<div class="logo"><a target='_blank' href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>epita</h5>
-							<p>Established since 28 years, <span class="colr">EPITA</span> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
+							<p>Established since 28 years, <a target='_blank' href="http://www.epita.fr" title="Epita"><span class="colr">EPITA</span></a> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
@@ -567,6 +570,7 @@
 <!-- BG JS -->
 <script src="js/lib/paper.min.js" type="text/javascript" id="paperJs"></script>
 <script src="js/lib/bg.min.js" type="text/paperscript" canvas="draw" id="bgJs"></script>
+
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
 <script type="text/javascript">
 

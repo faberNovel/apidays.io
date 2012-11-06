@@ -611,3 +611,8 @@ span.size26{
 @media (max-width: 480px) {
 
 }
+
+div.poweredby {
+	float : right;
+}
+}
