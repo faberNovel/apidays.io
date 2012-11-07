@@ -323,7 +323,7 @@
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
 									<span class="job">Product Manager</span>
-									<span class="society">Exalead</span>
+									<span class="society">Dassault Système Exalead</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_jakub-nesetril_Apiary.jpeg" alt="Jakub Nesetril" />
@@ -335,7 +335,7 @@
 							</li>
 							<li><img src="images/speakers/speaker_xing.jpeg" alt="Björn Minkmar" />
 								<div class="desc">
-									<h4 class="name"><a target='_blank' href='http://twitter.com/zubairov'><span class="colr">Björn Minkmar</span></a></h4>
+									<h4 class="name"><span class="colr">Björn Minkmar</span></h4>
 									<span class="job">Senior Product Manager</span>
 									<span class="society">XING</span>
 								</div>
@@ -350,8 +350,8 @@
 							<li><img src="images/speakers/speaker_ori_jpg.jpeg" alt="Ori Pekelman" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=396107'><span class="colr">Ori Pekelman</span></a></h4>
-									<span class="job">Entrepreneuring</span>
-									<span class="society">Ind&eacute;pendant</span>
+									<span class="job">Entrepreneur</span>
+									<span class="society">independent</span>
 								</div>
 							</li>
 							
