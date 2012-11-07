@@ -85,7 +85,7 @@
 						<div class="pad">
 							<h1>The Web 1.0 was readable, the Web 2.0 was social, <br />
 							<span class="be">now the web is programmable</span>
-							<span class="te">trough <span class="colr">a</span>pplications <span class="colr">p</span>rogramming <span class="colr">i</span>nterfaces,</span>
+							<span class="te">trough <span class="colr">a</span>pplication <span class="colr">p</span>rogramming <span class="colr">i</span>nterfaces,</span>
 							<span class="ne">aka APIs.</span></h1>
 						</div><!-- fin content -->
 						
@@ -107,9 +107,9 @@
 						<div class="hr"></div>
 						
 						<div class="pad">
-							<p>Web APIs are a unique opprtunity for companies, governments and developers to either better organize the governance of their IT into a scalable  and flexible model, either leverage a complete ecosystem around the organisation, exchanging data through the web for trillion of applications on billion devices.</p>
+							<p>Web APIs are a unique opprtunity for companies, governments and developers to either better organize the governance of their IT into a scalable  and flexible model, either leverage a complete ecosystem around the organization, exchanging data through the web for trillion of applications on billion devices.</p>
 							
-							<p class="p2">Because each civilisation has been described by the way it communicate and make exchanges, API are the beginning of a programmable civilisation.</p>
+							<p class="p2">Because each civilisation has been described by the way it communicate and make exchanges, API are the beginning of a programmable civilization.</p>
 						</div><!-- fin pad -->
 					
 					</div><!-- fin main -->
@@ -223,7 +223,7 @@
 						<img src="images/ico_section_speakers.png" alt="Speakers"  class="ico"/>
 					</div><!-- fin pleft -->
 					<div class="main">
-						<h2 class="rub ico_proud">Apidays is proud and thanksfull to welcome a huge panel of international<br />experts of the api world </h2>
+						<h2 class="rub ico_proud">APIdays is proud and thankfull to welcome a huge panel of international<br />experts of the API world </h2>
 					
 					</div><!-- fin main -->
 						<div class="clear"></div>
@@ -379,12 +379,12 @@
 						<ul>
 							<li>
 								<div class="logo_organizers"><img src="images/logo_fabernovel.png" alt="Faber Novel" /></div>
-								<h3><a target='_blank' href="http://fabernovel.com"><span class="colr">faberNovel</span></a> helps large organizations to think and act like startups.</h3>
+								<h3><a target='_blank' href="http://fabernovel.com"><span class="colr">faberNovel</span></a> helps large organizations think and act like startups.</h3>
 								<p>faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Oréal, Suez Environnement, Toys "R" Us, Danone, Essilor, bioMérieux, SNCF, France TV.</p>
 							</li>
 							<li class="last">
 								<div class="logo_organizers"><img src="images/logo_webshell.png" alt="Web Shell" /></div>
-								<h3>Webshell enables developers to make advanced web and mobile applications based on APIs easily. </h3>
+								<h3>Webshell enables developers to easily make advanced web and mobile applications based on APIs. </h3>
 								<p><a target='_blank' href="http://webshell.io"><span class="colr">webshell</span></a> has developped a shell for the web that developers can use to combine APIs of the programmable web in minutes and really program the web. Webshell was created in 2012 by its team of 3 co-founders , in Paris, and manages the <a target='_blank' href="http://api500.com/"><span class="colr">API rating agency blog</span></a> and the <a target='_blank' href="http://apijoy.tumblr.com/"><span class="colr">{"apis":"the joy"} blog</span></a>.</p>
 							</li>
 						</ul>
@@ -409,20 +409,20 @@
 						<div class="logo"><a target='_blank' href="http://www.layer7tech.com" title="Epita"><img src="images/sponsors/logo_layer7.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>Layer 7</h5>
-							<p>Layer 7 Technologies helps enterprises and services providers manage APIs in the cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into and extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
+							<p>Layer 7 Technologies helps enterprises and service providers manage APIs in the Cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into an extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more, please visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
 						</div><!-- fin int -->
 							<div class="clear"></div>
 						<br/><br/>
 						<div class="logo"><a target='_blank' href="http://www.epita.fr" title="Epita"><img src="images/logo_epita.png" alt="Epita" /></a></div>
 						<div class="int">
 							<h5>epita</h5>
-							<p>Established since 28 years, <a target='_blank' href="http://www.epita.fr" title="Epita"><span class="colr">EPITA</span></a> is a graduate school of computer science for those who design, develop and improve Information and Communication Technology (ICT). The pedagogy of the school is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
+							<p>Established since 28 years, <a target='_blank' href="http://www.epita.fr" title="Epita"><span class="colr">EPITA</span></a> is a graduate school of Computer Science for those who design, develop and improve Information and Communication Technology (ICT). The school's teaching method is to provide students with the fundamentals of engineering and high competency in the fields of computer science and ICT. The Web Shell platform is the result of final year projects developed by the students as part of the major Multimedia and Information Technology (MIT).</p>
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
 						
 						<?php if (1) {?>
-						<h2 class="rub ico_media">MEDIAS PARTNERS</h2>
+						<h2 class="rub ico_media">MEDIA PARTNERS</h2>
 						
 						<ul>
 							<li><a href="http://www.itespresso.fr/" title="ITespresso" target="_blank"><img src="images/sponsors/logo_itespresso.png" alt="ITespresso" /></a></li>
@@ -458,7 +458,7 @@
 							94276 Kremlin Bicêtre Cedex</p>
 						</div><!-- fin adress -->
 						<div class="anyQ">
-							<h5>Any questions ?</h5>
+							<h5>Any questions?</h5>
 							<p>Please feel free to contact us</p>
 							<a href="mailto:contact@apidays.io?subject=keynote" title="contact@apidays.io" target="_blank"><span>contact@apidays.io</span></a>
 						</div><!-- fin anyQ -->
@@ -489,7 +489,7 @@
 					<?php } ?>
 					
 					<div class="main">
-						<h2 class="rub ico_howto">How to get there ?</h2>
+						<h2 class="rub ico_howto">How to get there?</h2>
 						
 						<ul>
 							<li>
@@ -547,7 +547,7 @@
 				</p>
 			</div>
 			
-			<div class="mentions">WE ARE LOOKING FORWARD TO MEET YOU ! &nbsp;&nbsp;&nbsp;<span>apidays is an event propulsed by fabernovel &amp; webshell</span></div>
+			<div class="mentions">WE ARE LOOKING FORWARD TO MEET YOU ! &nbsp;&nbsp;&nbsp;<span>APIdays is an event brought to you by fabernovel &amp; webshell</span></div>
 		</footer><!-- fin footer -->
 	
 	</div><!-- fin wrapper -->
