@@ -323,7 +323,7 @@
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
 									<span class="job">Product Manager</span>
-									<span class="society">Dassault Système Exalead</span>
+									<span class="society">Dassault Systèmes Exalead</span>
 								</div>
 							</li>
 							<li><img src="images/speakers/speaker_jakub-nesetril_Apiary.jpeg" alt="Jakub Nesetril" />
