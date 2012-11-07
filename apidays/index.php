@@ -22,6 +22,7 @@
 	<!-- apple touch icon 57x57 -->
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300,200' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/styles.css?v=1.0">
+	<link href="css/fonz.css" type="text/css" rel="stylesheet"></style>
 
 
 	<!-- Remove the script reference below if you're using Modernizr -->
@@ -33,6 +34,7 @@
 </head>
 
 <body>
+	
 	<canvas id="draw" width="100%" height="100%" resize="true"></canvas>
 	<div id="wrapper">
 
@@ -535,7 +537,16 @@
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</div><!-- fin footerT -->
-			<p><img src="images/img_footer.jpg" alt="" /></p>
+			
+			<div id="fonz">
+				<p>
+					<img id="fonz-01-img" src="images/fonz/fonz_01.png">
+					<img id="fonz-02-img" src="images/fonz/fonz_02.png">
+					<img id="fonz-03-img" src="images/fonz/fonz_03.png">
+					<img id="fonz-04-img" src="images/fonz/fonz_04.png">
+				</p>
+			</div>
+			
 			<div class="mentions">WE ARE LOOKING FORWARD TO MEET YOU ! &nbsp;&nbsp;&nbsp;<span>apidays is an event propulsed by fabernovel &amp; webshell</span></div>
 		</footer><!-- fin footer -->
 	
