@@ -474,7 +474,7 @@
 					
 						<div class="marker marker1"><span class="tram"></span><span class="metro"></span>Porte d'italie</div><!-- fin marker -->
 						<div class="marker marker2"><span class="metro"></span>Porte de Choisy</div><!-- fin marker -->
-						<div class="marker marker3"><span class="bus"></span>Pierre Brosselette</div><!-- fin marker -->
+						<div class="marker marker3"><span class="bus"></span>Pierre Brossolette</div><!-- fin marker -->
 						<div class="marker marker4"><span class="bus"></span>Roger Salengro</div><!-- fin marker -->
 						
 						<div class="markerS">
