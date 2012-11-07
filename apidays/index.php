@@ -109,7 +109,7 @@
 						<div class="pad">
 							<p>Web APIs are a unique opprtunity for companies, governments and developers to either better organize the governance of their IT into a scalable  and flexible model, either leverage a complete ecosystem around the organization, exchanging data through the web for trillion of applications on billion devices.</p>
 							
-							<p class="p2">Because each civilisation has been described by the way it communicate and make exchanges, API are the beginning of a programmable civilization.</p>
+							<p class="p2">Because each civilization has been described by the way it communicate and make exchanges, API are the beginning of a programmable civilization.</p>
 						</div><!-- fin pad -->
 					
 					</div><!-- fin main -->
