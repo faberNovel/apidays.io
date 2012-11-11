@@ -312,13 +312,13 @@
 									<span class="society">OpenStreetMap France</span>
 								</div>
 							</li>
-<!--							<li><img src="images/speakers/speaker_verdier.jpg" alt="Henri Verdier" />
+							<li><img src="images/speakers/speaker_henri_verdier.jpeg" alt="Henri Verdier" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/henriverdier'><span class="colr">Henri Verdier</span></a></h4>
 									<span class="job">Entrepreneur</span>
 									<span class="society">MFG-RD</span>
 								</div>
-							</li>-->
+							</li>
 							<li><img src="images/speakers/speaker_exalead.jpeg" alt="Xavier Gréhant" />
 								<div class="desc">
 									<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=6139007'><span class="colr">Xavier Gréhant</span></a></h4>
@@ -354,8 +354,6 @@
 									<span class="society">independent</span>
 								</div>
 							</li>
-							
-						
 					</ul>
 					
 						<div class="clear"></div>
@@ -420,6 +418,13 @@
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
+						<h2 class="rub ico_partners">STARTUP PARTNERS</h2>
+						
+						<ul>
+							<li><a href="http://www.squidsolutions.com/" title="Squid Solutions" target="_blank"><img src="images/sponsors/logo_SquidSolutions.png" alt="Squid Solutions" /></a></li>
+							
+						</ul>
+						<div class="clear"></div>
 						
 						<?php if (1) {?>
 						<h2 class="rub ico_media">MEDIA PARTNERS</h2>
@@ -436,6 +441,7 @@
 						</ul>
 						<?php } ?>
 						<div class="clear"></div>
+
 					</div><!-- fin main -->
 					<div class="clear"></div>
 				</div><!-- fin inside -->
