@@ -418,7 +418,7 @@
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
-						<h2 class="rub ico_partners">STARTUP PARTNERS</h2>
+						<h2 class="rub ico_startup_partners">STARTUP PARTNERS</h2>
 						
 						<ul>
 							<li><a href="http://www.squidsolutions.com/" title="Squid Solutions" target="_blank"><img src="images/sponsors/logo_SquidSolutions.png" alt="Squid Solutions" /></a></li>

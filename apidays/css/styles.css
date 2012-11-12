@@ -310,6 +310,11 @@ a.apply_kn:hover{
 .section.partners .ico_partners{
 	background: url(img/ico_partners.png) no-repeat;
 }
+
+.section.partners .ico_startup_partners{
+	background: url(img/ico_StarUp_partners.png) no-repeat;
+	margin-top: 20px;
+}
 .section.partners .ico_media{
 	margin-top: 20px;
 	background: url(img/ico_media.png) no-repeat;
