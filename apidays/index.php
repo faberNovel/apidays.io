@@ -462,7 +462,7 @@
 						<div class="address">
 							<h5>3 & 4 December, 2012<br />-<br />
 							Epita Kremlin-Bicêtre</h5>
-							<p>4-16 rue Voltaire<br />
+							<p>14-16 rue Voltaire<br />
 							94276 Kremlin Bicêtre Cedex</p>
 						</div><!-- fin adress -->
 						<div class="anyQ">
