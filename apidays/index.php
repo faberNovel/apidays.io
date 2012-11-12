@@ -488,7 +488,7 @@
 						<div class="markerS">
 							<div class="int">
 								<h5>Epita Kremlin-Bicêtre</h5>
-								<p>4-16 rue Voltaire<br />
+								<p>14-16 rue Voltaire<br />
 								94276 Kremlin Bicêtre Cedex</p>
 							</div><!-- fin int -->
 						</div><!-- fin marker -->
