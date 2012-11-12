@@ -437,6 +437,7 @@
 							<li><a href="http://www.silicon.fr/" title="sillicon" target="_blank"><img src="images/sponsors/logo_silicon.png" alt="sillicon fr" /></a></li>
 								
 							<li><a href="http://apievangelist.com/" title="API evangelist" target="_blank"><img src="images/sponsors/logo_APIEevangelist.png" alt="satellinet" /></a></li>
+							<li><a href="http://lemonde.fr/" title="LeMonde.fr" target="_blank"><img src="images/sponsors/logo_lemondefr.png" alt="LeMonde.fr" /></a></li>
 							
 						</ul>
 						<?php } ?>
