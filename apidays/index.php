@@ -354,6 +354,13 @@
 									<span class="society">independent</span>
 								</div>
 							</li>
+								<li><img src="images/speakers/speaker_adrien_scmidt_Squid.jpg" alt="Adrien Schmidt" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/adrienschmidt'><span class="colr">Adrien Schmidt</span></a></h4>
+										<span class="job">Cofounder & CEO</span>
+										<span class="society">Squid Solutions</span>
+									</div>
+								</li>
 					</ul>
 					
 						<div class="clear"></div>
