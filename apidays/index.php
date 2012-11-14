@@ -425,7 +425,7 @@
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
-							<h2 class="rub ico_partners">BUSINESS SPONSORS</h2>
+							<h2 class="rub ico_business_partners">BUSINESS SPONSORS</h2>
 
 
 							<!--<div class="logo"><a target='_blank' href="http://www.soa.com/" title="SOA"><img src="images/sponsors/logo_SOA.png" alt="SOA" /></a></div>

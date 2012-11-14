@@ -315,6 +315,11 @@ a.apply_kn:hover{
 	background: url(img/ico_StarUp_partners.png) no-repeat;
 	margin-top: 20px;
 }
+
+.section.partners .ico_business_partners{
+	background: url(img/ico_StarUp_partners.png) no-repeat;
+	margin-top: 20px;
+}
 .section.partners .ico_media{
 	margin-top: 20px;
 	background: url(img/ico_media.png) no-repeat;
