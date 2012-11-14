@@ -116,7 +116,11 @@
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
-			<?php if (0) {?>
+			<?php if ($_GET['do'] == 1) {
+				$salleA = "salle A : ";
+				$salleB = "salle B : ";
+
+			?>
 	
 			<section class="section program" id="program">
 				<div class="inside fil">
@@ -125,52 +129,100 @@
 					</div><!-- fin pleft -->
 					<div class="main">
 					
-						<h2 class="rub ico_program">KEYNOTE</h2>
+						<h2 class="rub ico_program">DAY 1</h2>
 						
 						<div class="pad">
 							<ul>
 								<li>
-									<span class="date">09.30</span>
-									Opening with <span class="colr">Patrick Boubalieste</span> / CEO of Whatthefuck?#
-								</li>
+									<span class="date">09.45</span>
+									Opening with <span class="colr">Distinguin Stéphane</span> / CEO of faberNovel								</li>
 								<li>
 									<span class="date">10.00</span>
-									Is my api my best friend by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									<?php echo $salleA;?><span>API driven company <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
+									<?php echo $salleB;?>  <span class="colr">François Lacelles</span> / Layer 7
+								</li>
+								<li>
+									<span class="date">10.30</span>
+									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7<br/></span>
+									<?php echo $salleB;?>APIs the new SOA <span class="colr">Tobias Unger</span> / GridSolut
 								</li>
 								<li>
 									<span class="date">11.00</span>
-									Vestibulum et nisi ipsum. Suspendisse nec nisi non orci elementum porttitor sit amet a sapien. by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									<span class="colr size26">PAUSE</span>
 								</li>
 								<li>
-									<span class="date">12.30</span>
-									urabitur elementum semper ligula, a blandit orci cursus ac. by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									<span class="date">11.15</span>
+									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software<br/></span>
+									<?php echo $salleB;?><span class="colr">Olivier Laplace</span> / CTO SOA software
+									
 								</li>
 								<li>
-									<span class="date">13.00</span>
+									<span class="date">11.45</span>
+									<?php echo $salleA;?><span>API mangement solution for business applications <span class="colr">Ronnie Mitra</span> / Layer 7<br/></span>
+									<?php echo $salleB;?>Hypermedias APIs <span class="colr">Steve Klabnik</span> 
+									
+								</li>
+								<li>
+									<span class="date">12.15</span>
 									<span class="colr size26">BON APITITE !!!</span>
 								</li>
 								<li>
+									<span class="date">14.00</span>
+									<?php echo $salleA;?><span>Why Open? <span class="colr">Steve Klabnik</span></span><br>
+									<?php echo $salleB;?>API design <span class="colr">Ori</span> 
+								</li>
+								<li>
 									<span class="date">14.30</span>
-									Opening with <span class="colr">Patrick Boubalieste</span> / CEO of Whatthefuck?#
+									<?php echo $salleA;?><span>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span></span><br>
+									<?php echo $salleB;?>Building bricks for developers portal <span class="colr">Kin Lane</span> 
 								</li>
 								<li>
 									<span class="date">15.00</span>
-									Is my api my best friend by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span></span><br>
+									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data)<span class="colr">Xavier Grahant</span> / Dassault Systemes, Exalead 
+								</li>
+								<li>
+									<span class="date">15.30</span>
+									<span class="colr size26">PAUSE</span>
+								</li>
+								<li>
+									<span class="date">16.00</span>
+									<?php echo $salleA;?><span>API for BtoB integration <span class="colr">Nicolas Tricot</span>/ API director Viadeo</span><br>
+									<?php echo $salleB;?>Sensors and realtime data API<span class="colr"></span> / Orange Labs
+								</li>
+								<li>
+									<span class="date">16.30</span>
+									<?php echo $salleA;?><span>Marketing to developers <span class="colr"></span></span><br>
+									<?php echo $salleB;?><span class="colr">Clement Vouillon</span> / WeloveSaas
 								</li>
 								<li>
 									<span class="date">17.00</span>
-									Vestibulum et nisi ipsum. Suspendisse nec nisi non orci elementum porttitor sit amet a sapien. by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span>Smartbear</span><br>
+									<?php echo $salleB;?><span class="colr">Squid solution</span>
 								</li>
+								<?php $slotMediaSocial = "slot media social club";?>
 								<li>
 									<span class="date">17.30</span>
-									urabitur elementum semper ligula, a blandit orci cursus ac. by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									
+									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
 								</li>
 								<li>
 									<span class="date">18.00</span>
-									m. Suspendisse nec nisi non orci elementum porttitor sit amet a sapien. by <span class="colr">John Delaoutch</span> / lead developper @ Quanum
+									
+									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+								</li>
+								<li>
+									<span class="date">18.30</span>
+									
+									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
 								</li>
 								<li>
 									<span class="date">19.00</span>
+									
+									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+								</li>
+								<li>
+									<span class="date">19.30</span>
 									<span class="colr size26">APIDRINK</span>
 								</li>
 							</ul>
