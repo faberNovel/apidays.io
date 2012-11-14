@@ -425,6 +425,23 @@
 						</div><!-- fin int -->
 					
 						<div class="clear"></div>
+							<h2 class="rub ico_partners">BUSINESS SPONSORS</h2>
+
+
+							<!--<div class="logo"><a target='_blank' href="http://www.soa.com/" title="SOA"><img src="images/sponsors/logo_SOA.png" alt="SOA" /></a></div>
+							<div class="int">
+								<h5>SOA</h5>
+								<p>Layer 7 Technologies helps enterprises and service providers manage APIs in the Cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into an extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more, please visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
+							</div>
+								<div class="clear"></div>
+							<br/><br/>-->
+							<div class="logo"><a target='_blank' href="http://www.paris-region.com/" title="Paris Region"><img src="images/sponsors/logo_Paris_Region.png" alt="Paris Region" /></a></div>
+							<div class="int">
+								<h5>ARD</h5>
+								<p>The Paris Region Economic Development Agency is a non-profit organization, aiming at Promoting the economic attractiveness of the region abroad, at Attracting foreign investors to Paris Region, At Coordinating the marketing of the regional offer, at Helping investors prior to and during their location to Paris Region, et Supporting areas facing economic changes. <br/><a href="http://www.paris-region.com"><span class="colr">http://www.paris-region.com</span></a> </p>
+							</div><!-- fin int -->
+
+							<div class="clear"></div>
 						<h2 class="rub ico_startup_partners">STARTUP PARTNERS</h2>
 						
 						<ul>
