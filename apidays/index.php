@@ -43,7 +43,7 @@
 				<nav class="navigation">
 					<ul class="nav_p" id="nav">
 						<li data-color="#e6e6e6" class="current"><a href="#home">home</a></li>
-						<!--<li data-color="#fff"><a href="#program">PROGRAM</a></li>-->
+						<li data-color="#fff"><a href="#program">PROGRAM</a></li>
 						<li data-color="#e6e6e6"><a href="#speakers">SPEAKERS</a></li>
 						<li><a href="http://fr.amiando.com/apidays.html" class="external" target="_blank">REGISTER</a></li>
 						<li data-color="#fff"><a href="#organizers">ORGANIZERS</a></li>
@@ -117,8 +117,8 @@
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
 			<?php if ($_GET['do'] == 1) {
-				$salleA = "salle A : ";
-				$salleB = "salle B : ";
+				$salleA = "Room A : ";
+				$salleB = "Room B : ";
 
 			?>
 	
@@ -135,7 +135,7 @@
 							<ul>
 								<li>
 									<span class="date">09.45</span>
-									Opening with <span class="colr">Distinguin Stéphane</span> / CEO of faberNovel								</li>
+									Opening with <span class="colr">Stéphane Distinguin </span> / CEO of faberNovel								</li>
 								<li>
 									<span class="date">10.00</span>
 									<?php echo $salleA;?><span>API driven company <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
@@ -178,7 +178,7 @@
 								</li>
 								<li>
 									<span class="date">15.00</span>
-									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span>/ 3SCALE</span><br>
+									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span> / 3SCALE</span><br>
 									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data)<span class="colr">Xavier Grahant</span> / Dassault Systemes, Exalead 
 								</li>
 								<li>
@@ -188,7 +188,7 @@
 								<li>
 									<span class="date">16.00</span>
 									<?php echo $salleA;?><span>API for BtoB integration <span class="colr">Nicolas Tricot</span>/ API director Viadeo</span><br>
-									<?php echo $salleB;?>Sensors and realtime data API<span class="colr"></span> / Orange Labs
+									<!--<?php echo $salleB;?>Sensors and realtime data API<span class="colr"></span> / Orange Labs-->
 								</li>
 								<li>
 									<span class="date">16.30</span>
@@ -197,8 +197,8 @@
 								</li>
 								<li>
 									<span class="date">17.00</span>
-									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span>Smartbear</span><br>
-									<?php echo $salleB;?><span class="colr">Squid solution</span>
+									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span> Smartbear</span><br>
+									<?php echo $salleB;?>Adrien Schmidt<span class="colr"> CEO Squid solution</span>
 								</li>
 								<?php $slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";?>
 								<li>
