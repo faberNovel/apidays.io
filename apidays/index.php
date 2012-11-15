@@ -480,13 +480,14 @@
 							<h2 class="rub ico_business_partners">BUSINESS SPONSORS</h2>
 
 
-							<!--<div class="logo"><a target='_blank' href="http://www.soa.com/" title="SOA"><img src="images/sponsors/logo_SOA.png" alt="SOA" /></a></div>
+							<div class="logo"><a target='_blank' href="http://www.soa.com/" title="SOA"><img src="images/sponsors/logo_SOA.png" alt="SOA" /></a></div>
 							<div class="int">
-								<h5>SOA</h5>
-								<p>Layer 7 Technologies helps enterprises and service providers manage APIs in the Cloud; across the Internet; and out to mobile devices. The Layer 7 API Management suite provides the ability to address API security, version management, SLA enforcement, visibility and developer on-boarding requirements, in a fully-integrated suite. Enterprises and service providers can expose APIs externally or internally in a secure, reliable and manageable way, turning the enterprise into an extensible platform. Deliverable on-premise or from the Cloud, the Layer 7 API Management suite is certified to support the most rigorous security needs including PCI, FIPS, STIG and OAuth. To learn more, please visit <a href="http://www.layer7tech.com"><span class="colr">http://www.layer7tech.com/</span></a>.</p>
+								<h5>SOA software </h5>
+								 <p>SOA Software is a leading provider of Enterprise API Management and SOA governance products that help our customers plan, build, run and share enterprise services and APIs during the complete necessary scope to make Enterprise's API a success. The world’s largest companies including Bank of America, Pfizer, Michelin, BMW, Credit Suisse and Verizon use SOA Software products to harness the power of their technology and transform their businesses. Our products are available on-premise or as-a-Service.
+To learn more, please visit our web site and follow us on social networks:</p><a target='_blank' href="http://www.soa.com" title="SOA"><span class="colr">http://www.soa.com</span> <a target='_blank' href="http://twitter.com/SOASoftwareInc" title="SOA"><span class="colr">@SOASoftwareInc</span></a>
 							</div>
 								<div class="clear"></div>
-							<br/><br/>-->
+							<br/><br/>
 							<div class="logo"><a target='_blank' href="http://www.paris-region.com/" title="Paris Region"><img src="images/sponsors/logo_Paris_Region.png" alt="Paris Region" /></a></div>
 							<div class="int">
 								<h5>ARD</h5>
