@@ -169,7 +169,7 @@
 								<li>
 									<span class="date">14.00</span>
 									<?php echo $salleA;?><span>Why Open? <span class="colr">Steve Klabnik</span></span><br>
-									<?php echo $salleB;?>API design <span class="colr">Ori</span> 
+									<?php echo $salleB;?>API design <span class="colr">Ori Pekelman</span> 
 								</li>
 								<li>
 									<span class="date">14.30</span>
@@ -178,7 +178,7 @@
 								</li>
 								<li>
 									<span class="date">15.00</span>
-									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span></span><br>
+									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span>/ 3SCALE</span><br>
 									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data)<span class="colr">Xavier Grahant</span> / Dassault Systemes, Exalead 
 								</li>
 								<li>
