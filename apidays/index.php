@@ -198,7 +198,7 @@
 								<li>
 									<span class="date">17.00</span>
 									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span> Smartbear</span><br>
-									<?php echo $salleB;?> <span class="colr">Adrien Schmidt</span> / CEO Squid solution
+									<?php echo $salleB;?> <span class="colr">Adrien Schmidt</span> / CEO Squid solutions
 								</li>
 								<?php $slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";?>
 								<li>
