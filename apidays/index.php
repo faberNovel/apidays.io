@@ -200,7 +200,8 @@
 									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span>Smartbear</span><br>
 									<?php echo $salleB;?><span class="colr">Squid solution</span>
 								</li>
-								<?php $slotMediaSocial = "slot media social club";?>
+								<?php $slotMediaSocial = "Towards an APIzation of
+> media? French editors debate with Social Media Club France";?>
 								<li>
 									<span class="date">17.30</span>
 									
