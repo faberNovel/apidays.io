@@ -187,7 +187,7 @@
 								</li>
 								<li>
 									<span class="date">16.00</span>
-									<?php echo $salleA;?><span>API for BtoB integration <span class="colr">Nicolas Tricot</span>/ API director Viadeo</span><br>
+									<?php echo $salleA;?><span>API for BtoB integration <span class="colr">Nicolas Tricot</span> / API director Viadeo</span><br>
 									<!--<?php echo $salleB;?>Sensors and realtime data API<span class="colr"></span> / Orange Labs-->
 								</li>
 								<li>
@@ -198,7 +198,7 @@
 								<li>
 									<span class="date">17.00</span>
 									<?php echo $salleA;?><span>The software developer at the golden age of APIs<span class="colr"></span> Smartbear</span><br>
-									<?php echo $salleB;?>Adrien Schmidt<span class="colr"> CEO Squid solution</span>
+									<?php echo $salleB;?> <span class="colr">Adrien Schmidt</span> / CEO Squid solution
 								</li>
 								<?php $slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";?>
 								<li>
