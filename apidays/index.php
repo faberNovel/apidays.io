@@ -436,7 +436,7 @@
 						<ul>
 							<li>
 								<div class="logo_organizers"><img src="images/logo_fabernovel.png" alt="Faber Novel" /></div>
-								<h3><a target='_blank' href="http://fabernovel.com"><span class="colr">faberNovel</span></a> helps large organizations think and act like startups.</h3>
+								<h3><a target='_blank' href="http://fabernovel.com/en/"><span class="colr">faberNovel</span></a> helps large organizations think and act like startups.</h3>
 								<p>faberNovel combines technology,design and emerging trends to invent new products, services, and experiences. Founded in 2003, faberNovel is based in Paris, San Francisco, New York and Moscow, has a team of 60 passionate people and works for large organizations such as : L'Oréal, Suez Environnement, Toys "R" Us, Danone, Essilor, bioMérieux, SNCF, France TV.</p>
 							</li>
 							<li class="last">
