@@ -230,7 +230,7 @@
 						</div><!-- fin pad -->
 						
 						
-						<h2 class="rub ico_workshop">WORkSHOP</h2>
+						<!--<h2 class="rub ico_workshop">WORkSHOP</h2>
 						
 						<div class="pad">
 							<ul>
@@ -260,7 +260,8 @@
 								</li>
 							</ul>
 						
-						</div><!-- fin pad -->
+						</div>--><!-- fin pad -->
+
 					
 					</div><!-- fin main -->
 					
