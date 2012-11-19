@@ -496,6 +496,20 @@
 										<span class="society">Squid Solutions</span>
 									</div>
 								</li>
+								<li><img src="images/speakers/speaker_David_Thoumas.jpg" alt="David Thoumas" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=5991478'><span class="colr">David Thoumas</span></a></h4>
+										<span class="job">Cofounder & CTO</span>
+										<span class="society">OpenDataSoft</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Erci_Sherrer.jpg" alt="Eric Scherer" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=8818299'><span class="colr">Eric Scherer</span></a></h4>
+										<span class="job">Director of Future Media</span>
+										<span class="society">France Télévisions</span>
+									</div>
+								</li>
 					</ul>
 					
 						<div class="clear"></div>
