@@ -147,7 +147,7 @@
 									<span class="date">10.30</span>
 									
 									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7<br/></span>
-									<?php echo $salleB;?>The software developer at the golden age of APIs<span class="colr">Ole Lensmar</span> / Smartbear
+									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
 								<li>
@@ -173,7 +173,7 @@
 								<li>
 									<span class="date">14.00</span>
 									<?php echo $salleA;?><span>The Secret to a Successful API is Internal <span class="colr">Kin Lane</span></span><br>
-									<?php echo $salleB;?>Lipstick on a pig (How to create a modern api over legacy systems)<span class="colr">Ori Pekelman</span> 
+									<?php echo $salleB;?>Lipstick on a pig (How to create a modern api over legacy systems) <span class="colr">Ori Pekelman</span> 
 								</li>
 								<li>
 									<span class="date">14.30</span>
@@ -209,7 +209,7 @@
 									<span class="date">17.30</span>
 									<?php echo $salleA;?><span>Hackathons Best practices <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
 									
-									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"><?php echo $slotMediaSocialPresents;?></span>
+									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <?php echo $slotMediaSocialPresents;?>
 								</li>
 								<li>
 									<span class="date">18.00</span>
