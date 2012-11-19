@@ -581,6 +581,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 						<h2 class="rub ico_startup_partners">STARTUP PARTNERS</h2>
 						
 						<ul>
+							
 							<li><a href="http://www.squidsolutions.com/" title="Squid Solutions" target="_blank"><img src="images/sponsors/logo_SquidSolutions.png" alt="Squid Solutions" /></a></li>
 							<li><a href="http://fr.7digital.com/" title="7 digital" target="_blank"><img src="images/sponsors/logo_7digital.png" alt="7 digital" /></a></li>
 							<li><a href="http://www.opendatasoft.com/" title="OpenDataSoft" target="_blank"><img src="images/sponsors/logo_OpenDataSoft.png" alt="7 digital" /></a></li>
