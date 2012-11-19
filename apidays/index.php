@@ -599,6 +599,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 							<li><a href="http://apievangelist.com/" title="API evangelist" target="_blank"><img src="images/sponsors/logo_APIEevangelist.png" alt="satellinet" /></a></li>
 							<li><a href="http://lemonde.fr/" title="LeMonde.fr" target="_blank"><img src="images/sponsors/logo_lemondefr.png" alt="LeMonde.fr" /></a></li>
 							<li><a href="http://owni.fr/" title="OWNI" target="_blank"><img src="images/sponsors/logo_owni.png" alt="OWNI" /></a></li>
+							<li><a href="http://frenchweb.fr/" title="Frenchweb" target="_blank"><img src="images/sponsors/logo_French_Web.png" alt="Frenchweb" /></a></li>
 							
 						</ul>
 						<?php } ?>
