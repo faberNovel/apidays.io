@@ -179,7 +179,7 @@
 								<li>
 									<span class="date">14.30</span>
 									<?php echo $salleA;?><span>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span></span><br>
-									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data)<span class="colr">Xavier Grehant</span> / Dassault Systemes, Exalead 
+									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data) <span class="colr">Xavier Grehant</span> / Dassault Systemes, Exalead 
 								</li>
 								<li>
 									<span class="date">15.00</span>
@@ -192,7 +192,7 @@
 								</li>
 								<li>
 									<span class="date">16.00</span>
-									<?php echo $salleA;?><span>Why Open?<span class="colr">Steve Klabnik</span></span><br>
+									<?php echo $salleA;?><span>Why Open? <span class="colr">Steve Klabnik</span></span><br>
 									<?php echo $salleB;?>Sensors for data creation and realtime streaming<span class="colr"></span> / Orange Labs
 								</li>
 								<li>
@@ -202,13 +202,13 @@
 								</li>
 								<li>
 									<span class="date">17.00</span>
-									<?php echo $salleA;?><span>Business models of APIs <span class="colr">>Guilaume Balas</span></span><br>
+									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span></span><br>
 									<?php echo $salleB;?>APIs for Big data <span class="colr">Adrien Schmidt</span> / CEO Squid solutions
 								</li>
 								
 								<li>
 									<span class="date">17.30</span>
-									<?php echo $salleA;?><span>Hackathons Best practices<span class="colr"></span>Swift, Sendgrid and founder of Hacker leagues</span><br>
+									<?php echo $salleA;?><span>Hackathons Best practices <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
 									
 									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
 								</li>
@@ -253,8 +253,8 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>hreats on API economy : Trust, copyright, neutrality<span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
-									<?php echo $salleB;?>REST and hypermedia<span class="colr">Mike Kelly</span>
+									<?php echo $salleA;?><span>hreats on API economy : Trust, copyright, neutrality <span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
+									<?php echo $salleB;?>REST and hypermedia <span class="colr">Mike Kelly</span>
 									
 								</li>
 								<li>
