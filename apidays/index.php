@@ -119,10 +119,9 @@
 			<?php if ($_GET['do'] == 1) {
 				$salleA = "Room A : ";
 				$salleB = "Room B : ";
-
-
+				$slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";
+				$slotMediaSocialPresents = "(FranceTV,LeMonde.fr,Rue89,OWNI,...)";
 			?>
-			<?php $slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";?>
 	
 			<section class="section program" id="program">
 				<div class="inside fil">
@@ -210,22 +209,22 @@
 									<span class="date">17.30</span>
 									<?php echo $salleA;?><span>Hackathons Best practices <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
 									
-									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"><?php echo $slotMediaSocialPresents;?></span>
 								</li>
 								<li>
 									<span class="date">18.00</span>
 									<?php echo $salleA;?>Networking<br>
-									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
 								<li>
 									<span class="date">18.30</span>
 									<?php echo $salleA;?>Networking<br>
-									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
 								<li>
 									<span class="date">19.00</span>
 									<?php echo $salleA;?>Networking<br>
-									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
 								<li>
 									<span class="date">19.30</span>
