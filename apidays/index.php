@@ -173,7 +173,7 @@
 								<li>
 									<span class="date">14.00</span>
 									<?php echo $salleA;?><span>The Secret to a Successful API is Internal <span class="colr">Kin Lane</span></span><br>
-									<?php echo $salleB;?>Modern API on legacy system <span class="colr">Ori Pekelman</span> 
+									<?php echo $salleB;?>Lipstick on a pig (How to create a modern api over legacy systems)<span class="colr">Ori Pekelman</span> 
 								</li>
 								<li>
 									<span class="date">14.30</span>
