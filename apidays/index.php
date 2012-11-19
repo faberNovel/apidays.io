@@ -525,6 +525,20 @@
 										<span class="society">SOA Software</span>
 									</div>
 								</li>
+								<li><img src="images/speakers/speaker_Paul_Fremantle.jpg" alt="Paul Fremantle" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/paulfremantle'><span class="colr">Paul Fremantle</span></a></h4>
+										<span class="job">Technical Director</span>
+										<span class="society">WSO2</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Tobais.jpg" alt="Tobias Unger" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.gridsolut.de/?page_id=63'><span class="colr">Tobias Unger</span></a></h4>
+										<span class="job"></span>
+										<span class="society">GridSolut</span>
+									</div>
+								</li>
 					</ul>
 					
 						<div class="clear"></div>
