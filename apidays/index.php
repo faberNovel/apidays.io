@@ -510,11 +510,19 @@
 										<span class="society">France Télévisions</span>
 									</div>
 								</li>
+
 								<li><img src="images/speakers/speaker_Clement_Vouillon.jpg" alt="clement vouillon" />
 									<div class="desc">
 										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/pub/clement-vouillon/7/a74/926'><span class="colr">Clement Vouillon</span></a></h4>
 										<span class="job">Cofounder</span>
 										<span class="society">WeLoveSaas</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Maurizion_Canton.jpg" alt="Maurizio Canton" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/mauriziocanton'><span class="colr">Maurizio Canton</span></a></h4>
+										<span class="job">Technical Director</span>
+										<span class="society">SOA Software</span>
 									</div>
 								</li>
 					</ul>
