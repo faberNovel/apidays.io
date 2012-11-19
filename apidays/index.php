@@ -146,7 +146,7 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7<br/></span>
+									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7 &nbsp;<img src="images/sponsors_marker.jpg"><br/></span>
 									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
@@ -156,7 +156,7 @@
 								</li>
 								<li>
 									<span class="date">11.15</span>
-									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software<br/></span>
+									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software&nbsp;<img src="images/sponsors_marker.jpg"><br/></span>
 									<?php echo $salleB;?><span class="colr">Clement Vouillon</span> / WeloveSaas
 									
 								</li>
