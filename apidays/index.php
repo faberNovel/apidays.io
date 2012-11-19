@@ -535,7 +535,7 @@
 								<li><img src="images/speakers/speaker_Tobais.jpg" alt="Tobias Unger" />
 									<div class="desc">
 										<h4 class="name"><a target='_blank' href='http://www.gridsolut.de/?page_id=63'><span class="colr">Tobias Unger</span></a></h4>
-										<span class="job"></span>
+										<span class="job">GridSolut</span>
 										<span class="society">GridSolut</span>
 									</div>
 								</li>
