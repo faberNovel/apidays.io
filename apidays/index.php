@@ -109,7 +109,7 @@
 						<div class="pad">
 							<p>Web APIs are a unique opprtunity for companies, governments and developers to either better organize the governance of their IT into a scalable  and flexible model, either leverage a complete ecosystem around the organization, exchanging data through the web for trillion of applications on billion devices.</p>
 							
-							<p class="p2">Because each civilization has been described by the way it communicate and make exchanges, API are the beginning of a programmable civilization.</p>
+							<p class="p2">Because each civilization has been described by the way it communicates and make exchanges, API are the beginning of a programmable civilization.</p>
 						</div><!-- fin pad -->
 					
 					</div><!-- fin main -->
@@ -146,7 +146,7 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7 <br/></span>
+									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike Admundsen</span> / Layer 7 <br/></span>
 									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
@@ -290,7 +290,7 @@
 								<li>
 									<span class="date">14.00</span>
 									<?php echo $salleA;?><span>API as a product , concrete case of Telecom APIs <span class="colr">Florent Chauveau</span> / THECALLR</span><br>
-									<?php echo $salleB;?>The french opendata portal <span class="colr">Etalab</span> 
+									<?php echo $salleB;?>Data.gouv.fr and the French open data policy<span class="colr">Romain Lacombe</span> / Etalab
 								</li>
 								<li>
 									<span class="date">14.30</span>
