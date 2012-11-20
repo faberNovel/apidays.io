@@ -146,7 +146,7 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7 &nbsp;<img src="images/sponsors_marker.jpg"><br/></span>
+									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike admundsen</span> / Layer 7 <br/></span>
 									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
@@ -156,7 +156,7 @@
 								</li>
 								<li>
 									<span class="date">11.15</span>
-									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software&nbsp;<img src="images/sponsors_marker.jpg"><br/></span>
+									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software<br/></span>
 									<?php echo $salleB;?><span class="colr">Clement Vouillon</span> / WeloveSaas
 									
 								</li>
@@ -189,7 +189,7 @@
 								</li>
 								<li>
 									<span class="date">15.00</span>
-									<?php echo $salleA;?><span>Disruptive Innovation with APIs <span class="colr">Richard Pulliam</span> / LAYER7</span><br>
+									<?php echo $salleA;?><span>Disruptive Innovation with APIs <span class="colr">Richard Pulliam</span> / LAYER7</span> <br/>
 									
 								</li>
 								<li>
@@ -209,7 +209,7 @@
 								<li>
 									<span class="date">16:45</span>
 									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span></span><br>
-									<?php echo $salleB;?>APIs for Big data <span class="colr">Adrien Schmidt</span> / CEO Squid solutions
+									<?php echo $salleB;?>APIs for Big data <span class="colr">Adrien Schmidt</span> / CEO Squid solutions 
 								</li>
 								<li>
 									<span class="date">17.15</span>
@@ -257,7 +257,7 @@
 									<span class="date">10.00</span>
 									<?php echo $salleA;?><span>XING API strategy: when a big professional network open an API to developers <span class="colr">Bjorn Minxmar </span><br/></span>
 									
-									<?php echo $salleB;?>Open platform<span class="colr">Olivier Laplace</span> / CTO SOA software
+									<?php echo $salleB;?>Open platform <span class="colr">Olivier Laplace</span> / CTO SOA software 
 								</li>
 								<li>
 									<span class="date">10.30</span>
@@ -280,7 +280,7 @@
 									<span class="date">11.45</span>
 									<!--<?php echo $salleA;?><span>API for SAAS workflow and business application <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>-->
 									<?php echo $salleA;?><span>API for SAAS workflow and business application <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>
-									<?php echo $salleB;?>Music and APIs<span class="colr">7digital</span>
+									<?php echo $salleB;?>Music and APIs <span class="colr">7digital</span>
 									
 								</li>
 								<li>
@@ -294,7 +294,7 @@
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io
+									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
 									<?php echo $salleB;?>Open data and developer communities <span class="colr">François Forgues et Yann le Tilly </span> / SNCF
 								</li>
 								<li>
