@@ -290,7 +290,7 @@
 								<li>
 									<span class="date">14.00</span>
 									<?php echo $salleA;?><span>API as a product , concrete case of Telecom APIs <span class="colr">Florent Chauveau</span> / THECALLR</span><br>
-									<?php echo $salleB;?>Data.gouv.fr and the French open data policy<span class="colr">Romain Lacombe</span> / Etalab
+									<?php echo $salleB;?>Data.gouv.fr and the French open data policy <span class="colr">Romain Lacombe</span> / Etalab
 								</li>
 								<li>
 									<span class="date">14.30</span>
