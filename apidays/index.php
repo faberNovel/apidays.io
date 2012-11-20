@@ -185,7 +185,7 @@
 									<span class="date">14.30</span>
 									<?php echo $salleA;?><span>Open API contest on banking data <span class="colr">AXA bank</span></span><br>
 									
-									<?php echo $salleB;?>Use, provide and support APIs <span class="colr">Pierre Couzy</span> / Microsoft
+									<?php echo $salleB;?>Use, provide and support APIs <span class="colr"></span> / Microsoft
 								</li>
 								<li>
 									<span class="date">15.00</span>
@@ -309,7 +309,7 @@
 								</li>
 								<li>
 									<span class="date">15:45</span>
-									<?php echo $salleA;?><span>API & Ubiquitous media <span class="colr">Steren Giannini </span>/ Joshfire</span><br>
+									<!--<?php echo $salleA;?><span>API & Ubiquitous media <span class="colr">Steren Giannini </span>/ Joshfire</span><br>-->
 									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / Opendatasoft
 								</li>
 								<li>
