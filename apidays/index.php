@@ -163,11 +163,17 @@
 								<li>
 									<span class="date">11.45</span>
 									<?php echo $salleA;?><span>API mangement solution for business applications <span class="colr">Ronnie Mitra</span> / Layer 7<br/></span>
-									<?php echo $salleB;?><span class="colr">ALexandre steiner</span> / CapGemini
+									<?php echo $salleB;?>Strategies to deliver a Contextual API Experience<span class="colr">Paul Fremantle</span>
 									
 								</li>
 								<li>
 									<span class="date">12.15</span>
+									
+									<?php echo $salleB;?>apiGrove: an opensource gateway to meter, protect and scale your APIs <span class="colr">Guilhem ENSUQE</span> / Alcatel Lucent
+									
+								</li>
+								<li>
+									<span class="date">12.45</span>
 									<span class="colr size26">BON APITITE !!!</span>
 								</li>
 								<li>
@@ -177,8 +183,9 @@
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?><span>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span></span><br>
-									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data) <span class="colr">Xavier Grehant</span> / Dassault Systemes, Exalead 
+									<?php echo $salleA;?><span>Open API contest on banking data <span class="colr">AXA bank</span></span><br>
+									
+									<?php echo $salleB;?>Use, provide and support APIs <span class="colr">Pierre Couzy</span> / Microsoft
 								</li>
 								<li>
 									<span class="date">15.00</span>
@@ -190,21 +197,24 @@
 									<span class="colr size26">PAUSE</span>
 								</li>
 								<li>
-									<span class="date">16.00</span>
+									<span class="date">15:45</span>
 									<?php echo $salleA;?><span>Why Open? <span class="colr">Steve Klabnik</span></span><br>
 									<?php echo $salleB;?>Sensors for data creation and realtime streaming<span class="colr"></span> / Orange Labs
 								</li>
 								<li>
-									<span class="date">16.30</span>
-									<?php echo $salleA;?><span>API for BtoB integration <span class="colr">Nicolas Tricot</span> / Viadeo</span><br>
-									<?php echo $salleB;?>API security <span class="colr">Pierre Couzy</span> / Microsoft
+									<span class="date">16.15</span>
+									<?php echo $salleA;?><span>Payment APIS: a new revolution? <span class="colr">Celine Lazorthes</span> / Leetchi</span><br>
+									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts  (for Big data) <span class="colr">Xavier Grehant</span> / Dassault Systemes, Exalead 
 								</li>
 								<li>
-									<span class="date">17.00</span>
+									<span class="date">16:45</span>
 									<?php echo $salleA;?><span>Business models of APIs <span class="colr">Guilaume Balas</span></span><br>
 									<?php echo $salleB;?>APIs for Big data <span class="colr">Adrien Schmidt</span> / CEO Squid solutions
 								</li>
-								
+								<li>
+									<span class="date">17.15</span>
+									<span class="colr size26">PAUSE</span>
+								</li>
 								<li>
 									<span class="date">17.30</span>
 									<?php echo $salleA;?><span>Hackathons Best practices <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
@@ -213,7 +223,7 @@
 								</li>
 								<li>
 									<span class="date">18.00</span>
-									<?php echo $salleA;?>Networking<br>
+									<?php echo $salleA;?>APIs for advertisement <span class="colr">Cyril Vart </span><br>
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
 								<li>
@@ -247,12 +257,12 @@
 									<span class="date">10.00</span>
 									<?php echo $salleA;?><span>XING API strategy: when a big professional network open an API to developers <span class="colr">Bjorn Minxmar </span><br/></span>
 									
-									<?php echo $salleB;?><span class="colr">Olivier Laplace</span> / CTO SOA software
+									<?php echo $salleB;?>Open platform<span class="colr">Olivier Laplace</span> / CTO SOA software
 								</li>
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>hreats on API economy : Trust, copyright, neutrality <span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
+									<?php echo $salleA;?><span>Threats on API economy : Trust, copyright, neutrality <span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
 									<?php echo $salleB;?>REST and hypermedia <span class="colr">Mike Kelly</span>
 									
 								</li>
@@ -268,8 +278,9 @@
 								</li>
 								<li>
 									<span class="date">11.45</span>
+									<!--<?php echo $salleA;?><span>API for SAAS workflow and business application <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>-->
 									<?php echo $salleA;?><span>API for SAAS workflow and business application <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>
-									<?php echo $salleB;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io
+									<?php echo $salleB;?>Music and APIs<span class="colr">7digital</span>
 									
 								</li>
 								<li>
@@ -283,7 +294,7 @@
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?><span>Music and APIs <span class="colr">7gigital</span></span><br>
+									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io
 									<?php echo $salleB;?>Open data and developer communities <span class="colr">François Forgues et Yann le Tilly </span> / SNCF
 								</li>
 								<li>
@@ -297,27 +308,27 @@
 									<span class="colr size26">PAUSE</span>
 								</li>
 								<li>
-									<span class="date">16.00</span>
+									<span class="date">15:45</span>
 									<?php echo $salleA;?><span>API & Ubiquitous media <span class="colr">Steren Giannini </span>/ Joshfire</span><br>
 									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / Opendatasoft
 								</li>
 								<li>
-									<span class="date">16.30</span>
-									<?php echo $salleA;?><span>Design API for medias<br>
+									<span class="date">16.15</span>
+									<?php echo $salleA;?>Try story telling for you API <span class="colr">Pat Cappelaere</span><br>
 									<?php echo $salleB;?><span class="colr"> Gael Musquet</span> / Openstreetmap
 								</li>
 								<li>
-									<span class="date">17.00</span>
+									<span class="date">16:45</span>
 									<?php echo $salleA;?><span>Design API for medias<span><br>
 									<?php echo $salleB;?>Gouvernement as a platform <span class="colr">Henri Verdier</span>
 								</li>
-								
-							<!--	<li>
-									<span class="date">17.30</span>
-									<?php echo $salleA;?><span>Hackathons Best practices<span class="colr"></span>Swift, Sendgrid and founder of Hacker leagues</span><br>
+								<li>
+									<span class="date">17.15</span>
+									<?php echo $salleA;?>Networking<br>
 									
-									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
+									<?php echo $salleB;?>Networking</span>
 								</li>
+								<!--
 								<li>
 									<span class="date">18.00</span>
 									
