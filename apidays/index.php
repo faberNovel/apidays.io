@@ -117,8 +117,8 @@
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
 			<?php if (1) {
-				$salleA = "Room A : ";
-				$salleB = "Room B : ";
+				$salleA = "<b>Room A : </b>";
+				$salleB = "<b>Room B : </b>";
 				$slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";
 				$slotMediaSocialPresents = "(FranceTV,Le Monde,Rue89,Radio France,Les Echos,...)";
 			?>
@@ -163,7 +163,7 @@
 								<li>
 									<span class="date">11.45</span>
 									<?php echo $salleA;?><span>API mangement solution for business applications <span class="colr">Ronnie Mitra</span> / Layer 7<br/></span>
-									<?php echo $salleB;?>Strategies to deliver a Contextual API Experience<span class="colr">Paul Fremantle</span>
+									<?php echo $salleB;?>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span>
 									
 								</li>
 								<li>
