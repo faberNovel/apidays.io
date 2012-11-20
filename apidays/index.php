@@ -156,7 +156,7 @@
 								</li>
 								<li>
 									<span class="date">11.15</span>
-									<?php echo $salleA;?><span>The API Economy is Here: Facebook, Twitter, Netflix and your IT Enterprise <span class="colr">Maurizio Canton</span> / SOA software<br/></span>
+									<?php echo $salleA;?><span>The API Economy is Here: The Convergence of Services Governance and API Management <span class="colr">Olivier Laplace</span> / Technical Director, France @SOA software<br/></span>
 									<?php echo $salleB;?><span class="colr">Clement Vouillon</span> / WeloveSaas
 									
 								</li>
@@ -257,7 +257,7 @@
 									<span class="date">10.00</span>
 									<?php echo $salleA;?><span>XING API strategy: when a big professional network open an API to developers <span class="colr">Bjorn Minxmar </span><br/></span>
 									
-									<?php echo $salleB;?>Open platform <span class="colr">Olivier Laplace</span> / CTO SOA software 
+									<?php echo $salleB;?>Enterprise APIs: How does my API differ from Facebook, Twitter and Netflix <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software 
 								</li>
 								<li>
 									<span class="date">10.30</span>
