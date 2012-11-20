@@ -116,7 +116,7 @@
 					<div class="clear"></div>
 				</div><!-- fin inside -->
 			</section><!-- fin section -->
-			<?php if ($_GET['do'] == 1 || $_GET['planning'] == 1) {
+			<?php if (1) {
 				$salleA = "Room A : ";
 				$salleB = "Room B : ";
 				$slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";
