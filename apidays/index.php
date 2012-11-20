@@ -550,6 +550,13 @@
 										<span class="society">GridSolut</span>
 									</div>
 								</li>
+								<li><img src="images/speakers/speaker_Celine_Lazorthes.jpg" alt="Celine Lazorthes" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/in/lazorthes'><span class="colr">Celine Lazorthes</span></a></h4>
+										<span class="job">Founder &amp; CEO</span>
+										<span class="society">Leetchi</span>
+									</div>
+								</li>
 					</ul>
 					
 						<div class="clear"></div>
