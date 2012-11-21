@@ -70,9 +70,9 @@
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 							<br/><br/>
 							<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/Share" data-counter="right"></script>
+<script type="IN/Share" data-url="http://apidays.io" data-counter="right"></script>
 							<br/><br/>
-							<div class="fb-like" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
+							<div class="fb-like" data-send="false" data-href="http://apidays.io" data-layout="button_count" data-width="450" data-show-faces="false"></div>
 
 						</div><!-- fin socials -->
 						<div class='poweredby'>
@@ -146,7 +146,7 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>Story of computing architecure <span class="colr">Mike Admundsen</span> / Layer 7 <br/></span>
+									<?php echo $salleA;?><span>What the last 50+ years of modern computing history may tell us about the future <br/><span class="colr">Mike Admundsen</span> / Layer 7 <br/></span>
 									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
