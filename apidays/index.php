@@ -643,7 +643,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 							<div class="logo"><a target='_blank' href="http://www.salesforce.com/" title="SalesForce"><img src="images/sponsors/logo_salesForces.png" alt="SalesForce" /></a></div>
 							<div class="int">
 								<h5>SalesForce</h5>
-								<p><a target='_blank' href="http://www.salesforce.com" title="SalesForce"><span class="colr">http://www.salessforce.com</span> </a> is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>
+								<p><a target='_blank' href="http://www.salesforce.com" title="SalesForce"><span class="colr">http://www.salesforce.com</span> </a> is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>
 							</div><!-- fin int -->
 
 							<div class="clear"></div>
