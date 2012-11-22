@@ -639,6 +639,15 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 							</div><!-- fin int -->
 
 							<div class="clear"></div>
+							<br/><br/>
+							<div class="logo"><a target='_blank' href="http://www.salesforce.com/" title="SalesForce"><img src="images/sponsors/logo_salesForces.png" alt="SalesForce" /></a></div>
+							<div class="int">
+								<h5>SalesForce</h5>
+								<p><a target='_blank' href="http://www.salesforce.com" title="SalesForce"><span class="colr">http://www.salessforce.com</span> </a> is the enterprise cloud computing leader. Our social and mobile cloud technologies—including our flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways.</p>
+							</div><!-- fin int -->
+
+							<div class="clear"></div>
+							<!--<li><a href="http://www.salesforces.com/" title="salesForces" target="_blank"><img src="images/sponsors/logo_salesForces.png" alt="salesForces" /></a></li>-->
 						<h2 class="rub ico_startup_partners">STARTUP PARTNERS</h2>
 						
 						<ul>
@@ -649,7 +658,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 							<li><a href="http://www.sendgrid.com" title="SendGrid" target="_blank"><img src="images/sponsors/logo_sendGrid.png" alt="SendGrid" /></a></li>
 							<li><a href="http://www.leetchi.com/" title="Leetchi" target="_blank"><img src="images/sponsors/logo_Leetchi.png" alt="Leetchi" /></a></li>
 							<li><a href="http://www.mailjet.com/" title="mailjet" target="_blank"><img src="images/sponsors/logo_MailJet.png" alt="mailjet" /></a></li>
-							<li><a href="http://www.salesforces.com/" title="salesForces" target="_blank"><img src="images/sponsors/logo_salesForces.png" alt="salesForces" /></a></li>
+							
 						</ul>
 						<div class="clear"></div>
 						
