@@ -369,7 +369,7 @@
 						<img src="images/ico_section_speakers.png" alt="Speakers"  class="ico"/>
 					</div><!-- fin pleft -->
 					<div class="main">
-						<h2 class="rub ico_proud">APIdays is proud and thankfull to welcome a huge panel of international<br />experts of the API world </h2>
+						<h2 class="rub ico_proud">APIdays is proud and thankful to welcome a huge panel of international<br />experts of the API world </h2>
 					
 					</div><!-- fin main -->
 						<div class="clear"></div>
@@ -649,6 +649,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 							<li><a href="http://www.sendgrid.com" title="SendGrid" target="_blank"><img src="images/sponsors/logo_sendGrid.png" alt="SendGrid" /></a></li>
 							<li><a href="http://www.leetchi.com/" title="Leetchi" target="_blank"><img src="images/sponsors/logo_Leetchi.png" alt="Leetchi" /></a></li>
 							<li><a href="http://www.mailjet.com/" title="mailjet" target="_blank"><img src="images/sponsors/logo_MailJet.png" alt="mailjet" /></a></li>
+							<li><a href="http://www.salesforces.com/" title="salesForces" target="_blank"><img src="images/sponsors/logo_salesForces.png" alt="salesForces" /></a></li>
 						</ul>
 						<div class="clear"></div>
 						
