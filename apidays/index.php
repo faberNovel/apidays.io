@@ -585,8 +585,27 @@
 										<span class="society">THECALLR</span>
 									</div>
 								</li>
-									
-								
+									<li><img src="images/speakers/speaker_Guilhem_Ensuque_alcatel.jpg" alt="Guilhem Ensuque" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=4638884'><span class="colr">Guilhem Ensuque</span></a></h4>
+										<span class="job">Director Product Management</span>
+										<span class="society">Alcatel-Lucent</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Richard_Puilliam_Layer7.jpg" alt="Richard Pulliam" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=1230108'><span class="colr">Richard Pulliam</span></a></h4>
+										<span class="job">Strategy Executive</span>
+										<span class="society">Layer 7</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Ole_lensmar_SmartBear.jpg" alt="Ole Lensmar" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=4131445'><span class="colr">Ole Lensmar</span></a></h4>
+										<span class="job">CTO</span>
+										<span class="society">SmartBear</span>
+									</div>
+								</li>
 								
 					</ul>
 					
