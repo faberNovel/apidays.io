@@ -557,6 +557,37 @@
 										<span class="society">Leetchi</span>
 									</div>
 								</li>
+								<li><img src="images/speakers/speaker_Christian_faure.jpg" alt="Christian Faure" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=2428811'><span class="colr">Christian Faure</span></a></h4>
+										<span class="job">Consultant</span>
+										<span class="society">Ars Industrialis</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Cyril_Vart.jpg" alt="Cyril Vart" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=47851787'><span class="colr">Cyril Vart</span></a></h4>
+										<span class="job">Development &amp; Strategy</span>
+										<span class="society">faberNovel</span>
+									</div>
+								</li>
+									<li><img src="images/speakers/speaker_Yann_Le_Tillly_SNCF.jpg" alt="Yann Le Tilly" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=1269642'><span class="colr">Yann Le Tilly</span></a></h4>
+										<span class="job">Head of ticketing</span>
+										<span class="society">SNCF</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Florent_Chauveau_TheCallR.jpg" alt="Florent Chauveau" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=4980595'><span class="colr">Florent Chauveau</span></a></h4>
+										<span class="job">Co-Founder and CTO</span>
+										<span class="society">THECALLR</span>
+									</div>
+								</li>
+									
+								
+								
 					</ul>
 					
 						<div class="clear"></div>
