@@ -146,7 +146,7 @@
 								<li>
 									<span class="date">10.30</span>
 									
-									<?php echo $salleA;?><span>What the last 50+ years of modern computing history may tell us about the future <br/><span class="colr">Mike Admundsen</span> / Layer 7 <br/></span>
+									<?php echo $salleA;?><span>What the last 50+ years of modern computing history may tell us about the future <br/><span class="colr">Mike Amundsen</span> / Layer 7 <br/></span>
 									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
