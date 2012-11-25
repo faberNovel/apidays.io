@@ -257,7 +257,7 @@
 									<span class="date">10.00</span>
 									<?php echo $salleA;?><span>XING API strategy: when a big professional network open an API to developers <span class="colr">Bjorn Minxmar </span><br/></span>
 									
-									<?php echo $salleB;?>Enterprise APIs: How does my API differ from Facebook, Twitter and Netflix <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software 
+									<?php echo $salleB;?>Best Practices - The Role of API Management <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software 
 								</li>
 								<li>
 									<span class="date">10.30</span>
