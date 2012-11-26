@@ -100,7 +100,8 @@
 						
 						<div class="pad groupeButton">
 							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>
-							<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn">Apply for keynote</a>
+							<!--<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>-->
+							<img src='css/img/keynote_closed.png'/>
 							<div class="clear"></div>
 						</div><!-- fin pad -->
 						
@@ -606,6 +607,28 @@
 										<span class="society">SmartBear</span>
 									</div>
 								</li>
+								<!--<li><img src="images/speakers/speaker_Romain_Goyet_Applidium.jpg" alt="Romain Goyet" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=45919966'><span class="colr">Romain Goyet</span></a></h4>
+										<span class="job">Co-founder</span>
+										<span class="society">Apllidium</span>
+									</div>
+								</li>
+								<li><img src="images/speakers/speaker_Sebastien_Lefebvre_Mesagraph.jpg" alt="Sébastien Lefebvre" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=21703848'><span class="colr">Sébastien Lefebvre</span></a></h4>
+										<span class="job">CEO</span>
+										<span class="society">Mesagraph</span>
+									</div>
+								</li>
+									<li><img src="images/speakers/speaker_Bruno_Michel_af83.jpg" alt="Bruno Michel" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=9639045'><span class="colr">Bruno Michel</span></a></h4>
+										<span class="job">CTO</span>
+										<span class="society">af83</span>
+									</div>
+								</li>-->
+
 								
 					</ul>
 					

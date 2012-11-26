@@ -135,11 +135,7 @@ a.register:hover{
 	background: url(img/Bt_Register.png) bottom left no-repeat;
 }
 a.apply_kn{
-	background: url(img/BT_Apply.png) top left no-repeat;
-}
-a.apply_kn:hover{
-	color: #3ca2c0;
-	background: url(img/BT_Apply.png) bottom left no-repeat;
+	background: url(img/keynote_closed.png) top left no-repeat;
 }
 
 
