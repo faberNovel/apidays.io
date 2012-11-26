@@ -100,7 +100,7 @@
 						
 						<div class="pad groupeButton">
 							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>
-							<!--<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>-->
+							
 							<img src='css/img/keynote_closed.png'/>
 							<div class="clear"></div>
 						</div><!-- fin pad -->
