@@ -157,7 +157,7 @@
 								<li>
 									<span class="date">11.15</span>
 									<?php echo $salleA;?><span>The API Economy is Here: The Convergence of Services Governance and API Management <span class="colr">Olivier Laplace</span> / Technical Director, France @SOA software<br/></span>
-									<?php echo $salleB;?><span class="colr">Clement Vouillon</span> / WeloveSaas
+									<?php echo $salleB;?>API: the roots of a new SaaS ecosystem? <span class="colr">Clement Vouillon</span> / WeloveSaas
 									
 								</li>
 								<li>
