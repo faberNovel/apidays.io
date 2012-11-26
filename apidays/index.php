@@ -319,12 +319,12 @@
 								</li>
 								<li>
 									<span class="date">16:45</span>
-									<?php echo $salleA;?><span>Design API for Le Monde.fr<span><br>
+									<?php echo $salleA;?><span>Design API for media : Le Monde.fr<span><br>
 									<?php echo $salleB;?>Gouvernement as a platform <span class="colr">Henri Verdier</span>
 								</li>
 								<li>
 									<span class="date">17.15</span>
-									<?php echo $salleA;?><span>Design API for Le Monde.fr<span><br>
+									<?php echo $salleA;?><span>Design API for media : Le Monde.fr<span><br>
 									
 									<?php echo $salleB;?>Networking</span>
 								</li>
