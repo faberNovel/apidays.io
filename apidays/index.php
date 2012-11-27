@@ -228,7 +228,7 @@
 								</li>
 								<li>
 									<span class="date">17.30</span>
-									<?php echo $salleA;?><span>How to evangelise API with hackathons? <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
+									<?php echo $salleA;?><span>How to evangelise API with hackathons? <span class="colr">Swift</span> / Sendgrid and founder of Hacker leagues</span><br>
 									
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <?php echo $slotMediaSocialPresents;?>
 								</li>
