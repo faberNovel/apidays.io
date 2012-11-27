@@ -234,7 +234,7 @@
 								</li>
 								<li>
 									<span class="date">18.00</span>
-									<?php echo $salleA;?>Making life better - from R&D to API<span class="colr">Pavel Simonov</span>/ Imhonet.ru <br>
+									<?php echo $salleA;?>Making life better - from R&D to API <span class="colr">Pavel Simonov</span>/ Imhonet.ru <br>
 									
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
