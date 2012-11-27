@@ -234,7 +234,7 @@
 								</li>
 								<li>
 									<span class="date">18.00</span>
-									<?php echo $salleA;?>Imhonet.ru<span class="colr">Pavel Simonov</span><br>
+									<?php echo $salleA;?>Imhonet.ru <span class="colr">Pavel Simonov</span><br>
 									
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
@@ -873,8 +873,9 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 		<footer class="footer">
 			<div class="footerT">
 				<div class="inside">
-					<a href="mailto:contact@apidays.io?subject=keynote" alt="Apply for keynote" class="button apply_kn"><span>Apply for keynote</span></a>
+					
 					<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register"><span>Register</span></a>
+					<img src='css/img/keynote_closed.png'/>
 					
 					
 					<div class="clear"></div>
