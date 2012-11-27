@@ -875,7 +875,7 @@ To learn more, please visit our web site and follow us on social networks:</p><a
 				<div class="inside">
 					
 					<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register"><span>Register</span></a>
-					<img src='css/img/keynote_closed.png'/>
+					
 					
 					
 					<div class="clear"></div>
