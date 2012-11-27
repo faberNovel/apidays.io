@@ -607,7 +607,7 @@
 										<span class="society">SmartBear</span>
 									</div>
 								</li>
-								<!--<li><img src="images/speakers/speaker_Romain_Goyet_Applidium.jpg" alt="Romain Goyet" />
+								<li><img src="images/speakers/speaker_Romain_Goyet_Applidium.jpg" alt="Romain Goyet" />
 									<div class="desc">
 										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=45919966'><span class="colr">Romain Goyet</span></a></h4>
 										<span class="job">Co-founder</span>
@@ -627,7 +627,7 @@
 										<span class="job">CTO</span>
 										<span class="society">af83</span>
 									</div>
-								</li>-->
+								</li>
 
 								
 					</ul>
