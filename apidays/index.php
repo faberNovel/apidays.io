@@ -140,7 +140,7 @@
 									Opening with <span class="colr">Stéphane Distinguin </span> / CEO of faberNovel and <span class="colr">Mehdi Medjaoui</span> / CEO of Webshell						</li>
 								<li>
 									<span class="date">09.30</span>
-									<?php echo $salleA;?><span>API driven company forecast <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
+									<?php echo $salleA;?><span>API driven company <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
 									
 									<?php echo $salleB;?>APIs the new SOA?<span class="colr">Tobias Unger</span> / GridSolut
 								</li>
@@ -177,7 +177,8 @@
 								<li>
 									<span class="date">12.15</span>
 									<?php echo $salleA;?>What to do when services fail <span class="colr">Jean Semere</span> / Capgemini<br/>
-									<?php echo $salleB;?>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span>
+									<?php echo $salleB;?><span>Application Integration In The Age Of The APIs <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>
+									
 									
 								</li>
 								<li>
@@ -208,7 +209,7 @@
 								<li>
 									<span class="date">15:45</span>
 									<?php echo $salleA;?><span>Why Open? <span class="colr">Steve Klabnik</span></span><br>
-									<?php echo $salleB;?>Sensors for data creation and realtime streaming<span class="colr"></span> / Orange Labs
+									<?php echo $salleB;?>Realtime M2M for the web <span class="colr">Sebastien Beal</span> / Orange Labs
 								</li>
 								<li>
 									<span class="date">16.15</span>
@@ -219,7 +220,7 @@
 								</li>
 								<li>
 									<span class="date">16:45</span>
-									<?php echo $salleA;?><span>Open platform <span class="colr">Maurizio Canton</span> / SOA software </span><br>
+									<?php echo $salleA;?><span>Saving Hackathons <span class="colr">Swift </span> / Sendgrid and founder of Hacker leagues</span><br>
 									<?php echo $salleB;?>Capturing signal from noise – custom APIs by analysts <span class="colr">Xavier Grehant</span> / Dassault Systemes, Exalead 
 								</li>
 								<li>
@@ -228,13 +229,12 @@
 								</li>
 								<li>
 									<span class="date">17.30</span>
-									<?php echo $salleA;?><span>How to evangelise API with hackathons? <span class="colr">Swift, Sendgrid and founder of Hacker leagues</span></span><br>
-									
+									<?php echo $salleA;?>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span><br/>
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <?php echo $slotMediaSocialPresents;?>
 								</li>
 								<li>
 									<span class="date">18.00</span>
-									<?php echo $salleA;?>Imhonet.ru <span class="colr">Pavel Simonov</span><br>
+									<?php echo $salleA;?>Making life better - from R&D to API <span class="colr">Pavel Simonov</span> / Imhonet.ru <br>
 									
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
@@ -267,16 +267,15 @@
 								</li>
 								<li>
 									<span class="date">10.00</span>
-									<?php echo $salleA;?><span>Don’t Re-invent the wheel for mails, use APIs <span class="colr">Elie Chevignard </span> / Mailjet<br/></span>
-									
-									<!--<?php echo $salleB;?>Best Practices - The Role of API Management <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software -->
+									<?php echo $salleA;?>Best Practices - The Role of API Management <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software
 									<?php echo $salleB;?>How to build a Hypermedia API your customers will love <span class="colr">Mike Kelly</span>
 								</li>
 								<li>
 									<span class="date">10.30</span>
 									
 									<?php echo $salleA;?><span>Threats on API economy : Trust, copyright, neutrality <span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
-									<?php echo $salleB;?>Creating an API for a mobile app <span class="colr">Romain Goyet</span> / CTO Applidium
+									
+									<?php echo $salleB;?>Evolving from a monolithic to a distributed public Web API <span class="colr">7digital</span>
 									
 								</li>
 								<li>
@@ -285,15 +284,14 @@
 								</li>
 								<li>
 									<span class="date">11.15</span>
-									<!--<?php echo $salleA;?><span>Why Commerce APIs Will Change the World <span class="colr">Ricky Robinet</span> / Odr.in<br/></span>-->
-									<?php echo $salleB;?>APIcultur, your natural language buzz <span class="colr">Elsa Alvares Mellado</span> / Apicultur
+									<?php echo $salleA;?><span>Business models for your API as a start-up <span class="colr">Kin Lane </span><br/>
+									<?php echo $salleB;?>Designing HTTP Interfaces and RESTful web services <span class="colr">David Zuelke</span> 
 									
 								</li>
 								<li>
 									<span class="date">11.45</span>
-									<!--<?php echo $salleA;?><span>API for SAAS workflow and business application <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>-->
-									<?php echo $salleA;?><span>Application Integration In The Age Of The APIs <span class="colr">Renat Ziburov</span> / elastic.io<br/></span>
-									<?php echo $salleB;?>Evolving from a monolithic to a distributed public Web API <span class="colr">7digital</span>
+									<?php echo $salleA;?><span>Don’t Re-invent the wheel for mails, use APIs <span class="colr">Elie Chevignard</span> / Mailjet<br/></span>-->
+									<?php echo $salleB;?>Creating an API for a mobile app <span class="colr">Romain Goyet</span> / CTO Applidium
 									
 								</li>
 								<li>
@@ -307,19 +305,18 @@
 								</li>
 								<li>
 									<span class="date">14.00</span>
-									<?php echo $salleA;?><span>Want Your Api To Stick? Try Story-Telling...<span class="colr">Pat Cappelaere</span> / vightel</span><br>
+									<?php echo $salleA;?>API as a product , evolution of Telecom APIs <span class="colr">Florent Chauveau </span> / THECALLR<br/>
 									<?php echo $salleB;?>Data.gouv.fr and the French Open Data policy <span class="colr">Romain Lacombe</span> / Etalab
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?>API as a product , evolution of Telecom APIs <span class="colr">Florent Chauveau </span> / THECALLR<br/>
+									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
 									<?php echo $salleB;?>Conseil general saone et loire CG71<span class="colr"> </span> <br/>
-									
 								</li>
 								<li>
 									<span class="date">15.00</span>
-									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
-									<?php echo $salleB;?>Open data and developer communities <span class="colr">François Forgues et Yann le Tilly </span> / SNCF
+									<?php echo $salleA;?><span>Want Your Api To Stick? Try Story-Telling...<span class="colr">Pat Cappelaere</span> / vightel</span><br>
+									<?php echo $salleB;?>Open data and developer communities <span class="colr">François Forgues</span> / SNCF
 								</li>
 								<li>
 									<span class="date">15.30</span>
@@ -327,14 +324,14 @@
 								</li>
 								<li>
 									<span class="date">15:45</span>
-									<?php echo $salleA;?><span>API for BtoB integration<span class="colr"></span> / Viadeo</span><br>
+
+									<?php echo $salleA;?><span>APIcultur, your natural language buzz <span class="colr">Elena Alvarez Mellado</span> / vightel</span><br>
 									<?php echo $salleB;?>Dataculture & APIculture <span class="colr"> Christian Faure  </span>
 									
 								</li>
 								<li>
 									<span class="date">16.15</span>
 									<?php echo $salleB;?><span class="colr">Sébastien lefebvre</span> / CEO Mesagraph<br/>
-									
 									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / Opendatasoft
 									
 								</li>
@@ -357,7 +354,7 @@
 									<span class="date">17.45</span>
 									<?php echo $salleA;?><span>Design API for media : Le Monde.fr<span><br>
 									
-									<?php echo $salleB;?>Networking</span>
+									<?php echo $salleB;?>Roundtable on what is the future on Internet and APIs?</span>
 								</li>
 								<!--
 								<li>
