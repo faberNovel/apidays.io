@@ -141,7 +141,7 @@
 									<span class="date">09.30</span>
 									<?php echo $salleA;?><span>API driven company <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
 									
-									<?php echo $salleB;?>APIs the new SOA?<span class="colr">Tobias Unger</span> / GridSolut
+									<?php echo $salleB;?>APIs the new SOA? <span class="colr">Tobias Unger</span> / GridSolut
 								</li>
 								<li>
 									<span class="date">10.00</span>
@@ -234,7 +234,6 @@
 								<li>
 									<span class="date">18.00</span>
 									<?php echo $salleA;?>Making life better - from R&D to API <span class="colr">Pavel Simonov</span> / Imhonet.ru <br>
-									
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <span class="colr"></span>
 								</li>
 								<li>
