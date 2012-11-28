@@ -265,7 +265,7 @@
 								</li>
 								<li>
 									<span class="date">10.00</span>
-									<?php echo $salleA;?>Best Practices - The Role of API Management <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software
+									<?php echo $salleA;?>Best Practices - The Role of API Management <span class="colr">Maurizio Canton</span> / Technical Director, EMEA @SOA software<br/>
 									<?php echo $salleB;?>How to build a Hypermedia API your customers will love <span class="colr">Mike Kelly</span>
 								</li>
 								<li>
