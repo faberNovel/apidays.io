@@ -120,7 +120,7 @@
 				$salleA = "<b>Room A : </b>";
 				$salleB = "<b>Room B : </b>";
 				$slotMediaSocial = "Towards an APIzation of media? French editors debate with Social Media Club France";
-				$slotMediaSocialPresents = "(FranceTV,Le Monde,Rue89,Radio France,Les Echos,...)";
+				$slotMediaSocialPresents = "(Le Monde, Rue89, Groupe Express Roularta, Les Echos, France Télévisions)";
 			?>
 	
 			<section class="section program" id="program">
