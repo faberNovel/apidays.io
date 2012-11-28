@@ -1,7 +1,6 @@
 <!doctype html>
 <!--[if IE 6]><html lang="en" class="no-js ie6"><![endif]-->
 <!--[if (gt IE 6)|!(IE)]><!--><html lang="en" class="no-js"><!--<![endif]-->
-
 <head>
 	<meta charset="utf-8">
 
