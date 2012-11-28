@@ -288,7 +288,7 @@
 								</li>
 								<li>
 									<span class="date">11.45</span>
-									<?php echo $salleA;?><span>Don’t Re-invent the wheel for mails, use APIs <span class="colr">Elie Chevignard</span> / Mailjet<br/></span>-->
+									<?php echo $salleA;?><span>Don’t Re-invent the wheel for mails, use APIs <span class="colr">Elie Chevignard</span> / Mailjet<br/></span>
 									<?php echo $salleB;?>Creating an API for a mobile app <span class="colr">Romain Goyet</span> / CTO Applidium
 									
 								</li>
