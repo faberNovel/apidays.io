@@ -283,7 +283,7 @@
 								<li>
 									<span class="date">11.15</span>
 									<?php echo $salleA;?><span>Business models for your API as a start-up <span class="colr">Kin Lane </span><br/>
-									<?php echo $salleB;?>Designing HTTP Interfaces and RESTful web services <span class="colr">David Zuelke</span> 
+									<?php echo $salleB;?>Designing RESTful Web Services <span class="colr">David Zuelke</span> 
 									
 								</li>
 								<li>
