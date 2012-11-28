@@ -139,7 +139,7 @@
 									Opening with <span class="colr">Stéphane Distinguin </span> / CEO of faberNovel and <span class="colr">Mehdi Medjaoui</span> / CEO of Webshell						</li>
 								<li>
 									<span class="date">09.30</span>
-									<?php echo $salleA;?><span>API driven company <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
+									<?php echo $salleA;?><span>6 reasons why APIs are reshaping your business,or how to explain your CEO why he should be interested by APIs. <span class="colr">Cyril Vart</span> / VP strategy @faberNovel<br/></span>
 									
 									<?php echo $salleB;?>APIs the new SOA? <span class="colr">Tobias Unger</span> / GridSolut
 								</li>
@@ -171,7 +171,7 @@
 								<li>
 									<span class="date">11.45</span>
 									<?php echo $salleA;?><span>Building bricks for your company / Salesforces<br/></span>
-									<?php echo $salleA;?><span>API & ubiquity / Joshfire<br/></span>
+									<?php echo $salleB;?><span>API & ubiquity / Joshfire<br/></span>
 								</li>
 								<li>
 									<span class="date">12.15</span>
@@ -198,7 +198,7 @@
 								<li>
 									<span class="date">15.00</span>
 									<?php echo $salleA;?><span>Disruptive Innovation with APIs <span class="colr">Richard Pulliam</span> / LAYER7</span> <br/>
-									<?php echo $salleA;?><span>Payment APIS: a new revolution? <span class="colr">Celine Lazorthes</span> / Leetchi</span> 
+									<?php echo $salleB;?><span>Payment APIS: a new revolution? <span class="colr">Celine Lazorthes</span> / Leetchi</span> 
 									
 								</li>
 								<li>
@@ -256,7 +256,7 @@
 						<h2 class="rub ico_program">DAY 2</h2>
 						
 						<div class="pad">
-							<ul>
+							<
 								<li>
 									<span class="date">09.30</span>
 									<?php echo $salleA;?><span>How APIs enhance Start-up creation? <span class="colr">Anca Foster</span> / Startup Weekend<br/></span>
@@ -273,7 +273,7 @@
 									
 									<?php echo $salleA;?><span>Threats on API economy : Trust, copyright, neutrality <span class="colr">Mehdi Medjaoui</span> / Webshell<br/></span>
 									
-									<?php echo $salleB;?>Evolving from a monolithic to a distributed public Web API <span class="colr">7digital</span>
+									<?php echo $salleB;?>Evolving from a monolithic to a distributed public Web API <span class="colr">Chris O'Dell</span> / 7digital
 									
 								</li>
 								<li>
@@ -308,7 +308,7 @@
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?>API documentation readable bu humans <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
+									<?php echo $salleA;?>Avoid API Waterfalls: Build Faster and Better <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
 									<?php echo $salleB;?>Conseil general saone et loire CG71<span class="colr"> </span> <br/>
 								</li>
 								<li>
@@ -329,8 +329,8 @@
 								</li>
 								<li>
 									<span class="date">16.15</span>
-									<?php echo $salleB;?><span class="colr">Sébastien lefebvre</span> / CEO Mesagraph<br/>
-									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / Opendatasoft
+									<?php echo $salleA;?><span class="colr">Sébastien lefebvre</span> / CEO Mesagraph<br/>
+									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / CTO Opendatasoft
 									
 								</li>
 								<li>
@@ -365,10 +365,10 @@
 									
 									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
 								</li>
-								<li>
-									<span class="date">19.30</span>
+								<li>-->
+									<span class="date">18.15</span>
 									<span class="colr size26">APIDRINK</span>
-								</li>-->
+								</li>
 							</ul>
 						</div><!-- fin pad -->
 						
