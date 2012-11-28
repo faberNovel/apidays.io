@@ -146,15 +146,15 @@
 								<li>
 									<span class="date">10.00</span>
 									
-									<?php echo $salleA;?><span>future Interface : What the last 50+ years of modern computing history may tell us about the future <br/><span class="colr">Mike Amundsen</span> / Layer 7 <br/></span>
-									<?php echo $salleB;?>The software developer at the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
+									<?php echo $salleA;?><span>Future Interface : What the last 50+ years of modern computing history may tell us about the future <br/><span class="colr">Mike Amundsen</span> / Layer 7 <br/></span>
+									<?php echo $salleB;?>The software developer in the golden age of APIs <span class="colr">Ole Lensmar</span> / Smartbear
 									
 								</li>
 								<li>
 									<span class="date">10.30</span>
 									<?php echo $salleA;?><span>The API Economy is Here: The Convergence of Services Governance and API Management <span class="colr">Olivier Laplace</span> / Technical Director, France @SOA software<br/></span>
 								
-									<?php echo $salleB;?>Lipstick on a pig (How to create a modern api over legacy systems) <span class="colr">Ori Pekelman</span> 
+									<?php echo $salleB;?>Lipstick on a pig (How (not) to build a modern API on legacy system) : API design <span class="colr">Ori Pekelman</span> 
 									
 								</li>
 								<li>
@@ -193,7 +193,7 @@
 									<span class="date">14.30</span>
 									<?php echo $salleA;?><span>Open API contest on banking data <span class="colr"></span>/ AXA bank</span><br>
 									
-									<?php echo $salleB;?>Use, provide and support APIs <span class="colr">Pierre Couzy</span> / Microsoft
+									<?php echo $salleB;?>Use, provide and support APIs <span class="colr"></span> / Microsoft
 								</li>
 								<li>
 									<span class="date">15.00</span>
@@ -212,7 +212,7 @@
 								</li>
 								<li>
 									<span class="date">16.15</span>
-									<?php echo $salleA;?><span>Business models of APIs  <span class="colr">Guilaume Balas</span> </span><br>
+									<?php echo $salleA;?><span>Business models of APIs  <span class="colr">Guilaume Balas</span> / 3scale</span><br>
 									
 									<?php echo $salleB;?>apiGrove: an opensource gateway to meter, protect and scale your APIs <span class="colr">Guilhem ENSUQE</span> / Alcatel Lucent
 									
@@ -228,7 +228,7 @@
 								</li>
 								<li>
 									<span class="date">17.30</span>
-									<?php echo $salleA;?>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span><br/>
+									<?php echo $salleA;?>Strategies to deliver a Contextual API Experience <span class="colr">Paul Fremantle</span> / WSO2<br/>
 									<?php echo $salleB;?><?php  echo $slotMediaSocial;?> <?php echo $slotMediaSocialPresents;?>
 								</li>
 								<li>
