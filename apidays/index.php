@@ -309,7 +309,7 @@
 								<li>
 									<span class="date">14.30</span>
 									<?php echo $salleA;?>Avoid API Waterfalls: Build Faster and Better <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
-									<?php echo $salleB;?>Conseil general saone et loire CG71<span class="colr"> </span> <br/>
+									<?php echo $salleB;?>NETWORKING<span class="colr"> </span> <br/>
 								</li>
 								<li>
 									<span class="date">15.00</span>
@@ -329,7 +329,7 @@
 								</li>
 								<li>
 									<span class="date">16.15</span>
-									<?php echo $salleA;?><span class="colr">Sébastien lefebvre</span> / CEO Mesagraph<br/>
+									<?php echo $salleA;?>Transforming the TV industry with an API <span class="colr">Sébastien lefebvre</span> / CEO Mesagraph<br/>
 									<?php echo $salleB;?>Opendata to open API <span class="colr">David Thoumas</span> / CTO Opendatasoft
 									
 								</li>
@@ -364,8 +364,8 @@
 									<span class="date">19.00</span>
 									
 									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
-								</li>
-								<li>-->
+								</li>-->
+								<li>
 									<span class="date">18.15</span>
 									<span class="colr size26">APIDRINK</span>
 								</li>
