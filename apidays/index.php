@@ -256,7 +256,7 @@
 						<h2 class="rub ico_program">DAY 2</h2>
 						
 						<div class="pad">
-							<
+							
 								<li>
 									<span class="date">09.30</span>
 									<?php echo $salleA;?><span>How APIs enhance Start-up creation? <span class="colr">Anca Foster</span> / Startup Weekend<br/></span>
