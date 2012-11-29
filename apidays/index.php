@@ -164,7 +164,7 @@
 								<li>
 									<span class="date">11.15</span>
 									<?php echo $salleA;?><span>On The Shoulders of Giants: Learning From the Past <span class="colr">Ronnie Mitra</span> / Layer 7<br/></span>
-									<?php echo $salleB;?><span>API for Big Data / Squid solution<br/></span>
+									<?php echo $salleB;?><span>Big Data Analytics : how APIs make Data Actionable <span class="colr">Adrien Schmidt</span> / Squid solution<br/></span>
 									
 									
 								</li>
