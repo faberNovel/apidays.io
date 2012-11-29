@@ -655,6 +655,14 @@
 										<span class="society">SendGrid</span>
 									</div>
 								</li>
+								<li><img src="images/speakers/speaker_Olivier_Laplace.jpg" alt="Olivier Laplace" />
+									<div class="desc">
+										<h4 class="name"><a target='_blank' href='http://www.linkedin.com/profile/view?id=9302066'><span class="colr">Olivier Laplace</span></a></h4>
+										<span class="job">Senior Solution Consultant</span>
+										<span class="society">SOA Software</span>
+									</div>
+								</li>
+								
 								
 
 								
