@@ -368,7 +368,7 @@
 								</li>
 								<li>
 									<span class="date">17.15</span>
-									<?php echo $salleA;?><span class="colr"></span> Networking<br/>
+									<!--<?php echo $salleA;?>Design API for embedded generosity <span class="colr">Ismaël LE MOUEL</span> / mail for good<br/>-->
 									<?php echo $salleB;?>Gouvernement as a platform <span class="colr">Henri Verdier</span>
 								</li>
 								
@@ -381,7 +381,7 @@
 								<li>
 									<span class="date">18.15</span>
 									<?php echo $salleA;?><span>Design API for media : Le Monde.fr<span><br>
-									<?php echo $salleB;?><span class="colr">Networking</span>
+									<?php echo $salleB;?>Networking<span class="colr"></span>
 								</li>
 								<!--
 								<li>
@@ -390,7 +390,7 @@
 									<?php echo $salleB;?><span class="colr"><?php  echo $slotMediaSocial;?></span>
 								</li>-->
 								<li>
-									<span class="date">18.30</span>
+									<span class="date">18.45</span>
 									<span class="colr size26">APIDRINK</span>
 								</li>
 							</ul>
