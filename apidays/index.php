@@ -197,7 +197,7 @@
 								</li>
 								<li>
 									<span class="date">13.55</span>
-									<?php echo $salleB;?>ARD Paris Region opening <span class="colr"></span><br/>
+									<?php echo $salleA;?>ARD Paris Region opening <span class="colr"></span><br/>
 									<?php echo $salleB;?>SOA Software opening <span class="colr"></span> 
 								</li>
 								<li>
