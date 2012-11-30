@@ -368,7 +368,7 @@
 								</li>
 								<li>
 									<span class="date">17.15</span>
-									<!--<?php echo $salleA;?>Design API for embedded generosity <span class="colr">Ismaël LE MOUEL</span> / mail for good<br/>-->
+									<?php echo $salleA;?>Design API for embedded generosity <span class="colr">Ismaël LE MOUEL</span> / mail for good<br/>
 									<?php echo $salleB;?>Gouvernement as a platform <span class="colr">Henri Verdier</span>
 								</li>
 								
