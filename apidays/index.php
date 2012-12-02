@@ -331,7 +331,7 @@
 								</li>
 								<li>
 									<span class="date">14.30</span>
-									<?php echo $salleA;?>Avoid API Waterfalls: Build Faster and Better <span class="colr">Jakub Nesetril</span> / Apiairy.io<br/>
+									<?php echo $salleA;?>Avoid API Waterfalls: Build Faster and Better <span class="colr">Jakub Nesetril</span> / Apiary.io <br/>
 									<?php echo $salleB;?>Open data and developer communities <span class="colr">François Forgues</span> / SNCF
 									
 								</li>
