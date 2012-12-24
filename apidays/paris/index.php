@@ -1,3 +1,9 @@
+<?php 
+if ($_GET['y'] != '2013') {
+	header('Location: http://apidays.io');
+	exit();
+}
+?>
 <!doctype html>
 <!--[if IE 6]><html lang="en" class="no-js ie6"><![endif]-->
 <!--[if (gt IE 6)|!(IE)]><!--><html lang="en" class="no-js"><!--<![endif]-->
@@ -68,7 +74,7 @@
 						<div class="hr"></div>
 						<div class="pad groupeButton">
 							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Get in touch for next editions</a>
-							
+
 							
 						
 							<div class="clear"></div>
