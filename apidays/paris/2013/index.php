@@ -22,7 +22,7 @@ if ($_GET['y'] != '2013') {
       <meta name="revisit-after" content="30 days" />
       <meta name="audience" content="all" />
 	<!-- favicon 16x16 -->
-	<link rel="shortcut icon" href="apidays_fav.ico">
+	<link rel="shortcut icon" href="/apidays_fav.ico">
 	<!-- apple touch icon 57x57 -->
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300,200' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/styles.css?v=1.0">
