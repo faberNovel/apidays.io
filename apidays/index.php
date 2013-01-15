@@ -98,9 +98,12 @@
 						<div class="hr"></div>
 						
 						<div class="pad groupeButton">
-							<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>
+							<!--<a target='_blank' href="http://fr.amiando.com/apidays.html" alt="Register" class="button register">Register</a>-->
+						
+							&nbsp;<a target='_blank' href="http://youtube.com/apidays?" alt="videos APIdays 2012 " class="button videos">APidays 2012 in videos</a>
+							<!--<img src='css/img/keynote_closed.png'/>-->
 							
-							<img src='css/img/keynote_closed.png'/>
+							
 							<div class="clear"></div>
 						</div><!-- fin pad -->
 						

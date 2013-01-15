@@ -115,6 +115,7 @@ ul.nav_p li a:hover{
 
 .groupeButton{
 	padding: 20px 0;
+	margin-left: 200px;
 }
 a.button{
 	display: block;
@@ -621,4 +622,14 @@ span.size26{
 div.poweredby {
 	float : right;
 }
+}
+
+
+a.button.videos{
+	padding: 13px 40px 0 80px;
+}
+
+a.videos{
+	color: #ffffff;
+	background: url(img/BT_Apply.png) top left no-repeat;
 }
