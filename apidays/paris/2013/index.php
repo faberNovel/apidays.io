@@ -74,7 +74,7 @@ if ($_GET['y'] != '2013') {
 						<div class="hr"></div>
 						<div class="pad groupeButton">
 							<a target='_blank' href="http://fabernovel.us1.list-manage.com/subscribe/?u=007196e31b139575078fd3780&amp;id=439d4b3d82" alt="Register" class="button register">Get in touch for next editions</a>
-							<a target='_blank' href="http://youtube.com/apidays" alt="videos APIdays 2012 " class="button videos">APidays 2012 in videos</a>
+							<a target='_blank' href="http://youtube.com/apidays?s" alt="videos APIdays 2012 " class="button videos">APidays 2012 in videos</a>
 
 							<div class="clear"></div>
 							
