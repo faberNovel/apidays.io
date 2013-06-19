@@ -1,0 +1,95 @@
+body {
+
+	background: url(../img/bg.png) repeat center center;
+}
+
+.container {
+	margin-top : 10px;
+	padding : 15px;
+	padding-top : 30px;
+	background: url(../img/bg.png) repeat center center;
+}
+
+.title {
+	font-size: 25px;
+	line-height: 22pt;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.bloc_date {
+	background: url(../img/bg_date.png) no-repeat;
+}
+
+.form_email {
+	padding-top: 20px;
+	margin-left: 30px;
+}
+
+.text1 {
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.bloc_share {
+	padding-left: 3px;
+}
+
+.date_lieu_event {
+	padding-top : 5px;
+	padding-left: 10px;
+	color: white;
+	font-size: 24px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	line-height: 25pt;
+	font-weight: 400; 
+}
+
+.title_section {
+	padding-left: 10px;
+	color: white;
+	font-size: 30px;
+	background-color: #3ca2c0;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	line-height: 25pt;
+	font-weight: 400; 
+}
+
+.register {
+	margin-left: 100px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.container_register {
+	padding-top: 20px;
+}
+
+.texte_bio {
+	padding-top: 50px;
+}
+
+.text_press {
+	font-size: 25px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	padding-left: 35px;
+}
+
+.text_blue {
+	color : #3ca2c0;
+}
+
+.bloc_press{
+	height:40px;
+	margin-top:20px;
+	margin-bottom: 10px
+}
+
+input[type=email] { 
+	width: 200px; 
+	height : 25px;
+	font-size: 16px;
+	border : 1px solid;
+	color : black;
+	padding: 5px;
+
+} 
